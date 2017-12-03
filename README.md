@@ -41,7 +41,7 @@ I use [Inkscape](https://inkscape.org/en/) for modeling parts for laser cutting 
 
 ### Frame
 
-The frame provides the structure for the panel and was designed to be easily mounted and removed from my desk. My desk uses [Ikea Gerton table tops](http://www.ikea.com/us/en/catalog/products/50106773/) and the panel is designed to attach to a desk of that thickness (1 1/8"). The frame is made with 1/2" inch plywood.
+The frame provides the structure for the panel and was designed to be easily mounted and removed from my desk (1 1/8" thick). The frame is made with 1/2" inch plywood.
 
 To simplify the construction of the instrument panel, I used a 23-inch LCD display that is masked by an [instrument panel](#instrument_panel) that houses the hardware controls for interacting with the rendered instruments.
 
@@ -69,6 +69,8 @@ I opted to build a "steam gauge" panel to be able to train with traditional inst
 
 The instrument panel is constructed from 1/4" inch birch plywood with cutouts for mounting instrument bezels and hardware. The panel is attached directly to the frame with pan-head screws.
 
+The instruments are rendered with [Air Manager](https://www.siminnovations.com/).
+
 ![instrument_panel](instrument_panel/images/instrument_panel.jpg)
 
 For parts and construction details see the [instrument_panel](./instrument_panel) directory.
@@ -95,7 +97,7 @@ For parts and construction details see the [throttle_mixture_panel](./throttle_m
 
 ### Flaps Panel
 
-The flaps panels houses a custom-built electronic flaps control with an indicator that shows the actual position of the flaps in the simulator.
+The flaps panels houses a custom-built electronic flaps control with a flaps indicator that shows the actual position of the flaps in the simulator.
 
 The flaps control is constructed from a combination of 3d printed and laser-cut parts and uses a real Cessna 172 flaps lever (I found a cheap part on ebay). The flaps panel is made from laser-engraved, painted white acrylic. The panel is attached directly to the frame with pan-head screws.
 
