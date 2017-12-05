@@ -14,8 +14,6 @@ The button caps are 3d printed from white PLA, painted black, and then laser eng
 
 ![fuse_button](https://cdn.thingiverse.com/renders/3c/79/9f/93/58/8043766332737adb9f48f97e9710d479_preview_featured.jpg)
 
-https://www.thingiverse.com/thing:2687618
-
 ### Fuse Value (laser engrave)
 
 The fuse amperage is laser-engraved after painting the button cap. The SVG has layers that can be toggled for the various fuse values.
@@ -36,7 +34,9 @@ The `fuse_button_guide` was created for aligning the button cap in the laser cut
 
 ## Fuse Button Mounts
 
-The fuse switches are mounted to the back of the panel using laser-cut acrylic strips.
+The fuse switches are mounted to the back of the panel by gluing the switches into laser-cut acrylic strips.
+
+![fuse_mount](images/fuse_mount.jpg)
 
 `fuse_button_mount_top.svg`
 
