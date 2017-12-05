@@ -1,5 +1,5 @@
 # Cessna 172 Skyhawk Flight Simulator Panel
-This repository contains drawings, 3d models, laser-cutter templates, and code artifacts for building a Cessna 172 Skyhawk flight simulator panel.
+This repository contains drawings, 3d models, laser-cutting templates, and code artifacts that were created to build a Cessna 172 Skyhawk flight simulator panel. The content here primarily serves as a means to organize and document the project and some basic assembly instructions are provided.
 
 This project is a work in progress and components will be added as construction progresses.
 
@@ -11,7 +11,7 @@ In addition to using for flight training, building my own panel was a good excus
 
 ## Project Status
 
-As of November 2017, the panel is in a flyable state with a fully operating instrument panel, switch panel, throttle/mixture panel, flaps control, and yoke.
+As of November 2017, the panel is in a flyable state with a fully operating instrument panel, switch panel, throttle/mixture panel, flaps control, and yoke. Next up: the avionics stack!
 
 ![latest](images/status.jpg)
 
@@ -43,7 +43,7 @@ I use [Inkscape](https://inkscape.org/en/) for modeling parts for laser cutting 
 
 The frame provides the structure for the panel and was designed to be easily mounted and removed from my desk (1 1/8" thick). The frame is made with 1/2" inch plywood.
 
-To simplify the construction of the instrument panel, I used a 23-inch LCD display that is masked by an [instrument panel](#instrument_panel) that houses the hardware controls for interacting with the rendered instruments.
+To simplify the construction of the instrument panel, I used a 23-inch LCD display that is masked by an [instrument panel](#instrument-panel) that houses the hardware controls for interacting with the rendered instruments.
 
 ![latest](frame/images/frame.jpg)
 
@@ -57,7 +57,7 @@ For parts and construction details see the [frame](./frame) directory.
 
 ### Yoke Mount
 
-The yoke mount allows a [CH Eclipse Yoke](http://www.chproducts.com/Eclipse-Yoke-v13-d-717.html) to be securely attached to the panel and allow the entire panel to be detached from the desk without disassembly. The mount allows the yoke to be lower than it would be if mounted directly to the desk and puts the yoke the correct distance away from the panel.
+The yoke mount allows a [CH Eclipse Yoke](http://www.chproducts.com/Eclipse-Yoke-v13-d-717.html) to be securely attached to the panel and allows the entire panel to be detached from the desk without disassembly. The mount allows the yoke to be lower than it would be if mounted directly to the desk and puts the yoke the correct distance away from the panel.
 
 ![yoke_mount](yoke_mount/images/yoke_mount.jpg)
 
