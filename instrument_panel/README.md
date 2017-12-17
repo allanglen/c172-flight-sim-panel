@@ -14,7 +14,7 @@ Channels are routed into the panel for wiring the instruments to a terminal bloc
 
 ## Instrument Bezels
 
-The instrument bezels provide a clean way for framing the 2d instruments that are rendered on the LCD (via [Air Manager](https://www.siminnovations.com/) and provide a means for securely mounting rotary encoders into the panel.
+The instrument bezels provide a clean way for framing the 2d instruments that are rendered on the LCD (via [Air Manager](https://www.siminnovations.com/)) and provide a means for securely mounting rotary encoders into the panel.
 
 There are models for each bezel type (`bezel_large.FCStd`, `bezel_small.FCStd`, `bezel_annunciator.FCStd`) and components in each model can be toggled on/off to produce STL files for all of the required instruments.
 
@@ -31,8 +31,6 @@ There are models for each bezel type (`bezel_large.FCStd`, `bezel_small.FCStd`, 
 `bezel_large_dual_encoder.stl` (gyro compass)
 
 ![bezel_large_dual_encoder.stl](https://cdn.thingiverse.com/renders/57/70/aa/95/02/4f2366d3d5626a22a1b49f78964c66ce_preview_featured.jpg)
-
-![key_switch](key_switch/images/key_switch.jpg)
 
 `bezel_large_attitude.stl` (attitude indicator)
 
@@ -64,10 +62,12 @@ There are models for each bezel type (`bezel_large.FCStd`, `bezel_small.FCStd`, 
 
 ## Parts List
 
-| Component           | Part                                     | Quantity | Source                                   |
-| ------------------- | ---------------------------------------- | -------- | ---------------------------------------- |
-| Panel               | 1/4" birch plywood                       |          |                                          |
-| Encoders            | Low-profile rotary encoders, 6mm shaft   | 9        | https://www.amazon.com/gp/product/B0177VGSQY |
-| Buttons (for clock) | Tactile push buttons (6x6x4.3mm)         | 3        | https://www.amazon.com/gp/product/B071KX71SV |
-| Annunciator switch  | 3 position 2P3T Micro Right Angle Slide Switch | 1        | https://www.amazon.com/gp/product/B01480QKHY |
+| Component                          | Part                                     | Quantity  | Source                 |
+| ---------------------------------- | ---------------------------------------- | --------- | ---------------------- |
+| Panel                              | 1/4" birch plywood                       | 14" x 24" |                        |
+| Screws (for attaching instruments) | \#6-32 x 1/4" Phillips Pan Head Screws   | 55        | http://amzn.to/2yMTstO |
+| Screws (for attaching panel)       | \#8 x 3/4" Phillips Truss Head Screws    | 12        | http://amzn.to/2zjDXx6 |
+| Encoders                           | Low-profile rotary encoders, 6mm shaft   | 9         | http://amzn.to/2BmVPXe |
+| Buttons (for clock)                | Tactile push buttons (6x6x4.3mm)         | 3         | http://amzn.to/2kC8qxS |
+| Annunciator switch                 | 3 position 2P3T Micro Right Angle Slide Switch | 1         | http://amzn.to/2kFSRVM |
 
