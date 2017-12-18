@@ -28,10 +28,10 @@ DPDT buttons with 3d-printed caps are mounted into the panel to simulate resetta
 
 ## Parts List
 
-| Component                        | Part                            | Quantity | Source                                   |
-| -------------------------------- | ------------------------------- | -------- | ---------------------------------------- |
-| Panel                            | 3/16" bright white cast acrylic | 260x89mm | https://www.ebay.com/itm/3-16-7328-Translucent-Bright-White-Cell-Cast-Acrylic-Sheet-12-x-24/291827088484 |
-| Alternator/Battery Master Switch | Dual rocker switch              | 1        | http://www.desktopaviator.com/Products/parts.htm |
-| Fuel Pump, Lights, Pitot Heat    | SPDT Toggle Switch              | 7        | http://www.desktopaviator.com/Products/parts.htm |
-| Avionics Master Switch           | On/Off Rocker Switch            | 1        | http://www.desktopaviator.com/Products/parts.htm |
-
+| Component                        | Part                                  | Quantity | Source                                   |
+| -------------------------------- | ------------------------------------- | -------- | ---------------------------------------- |
+| Panel                            | 3/16" bright white cast acrylic       | 260x89mm | http://ebay.to/2Bn1CMs                   |
+| Screws (for attaching panel)     | \#8 x 3/4" Phillips Truss Head Screws | 4        | http://amzn.to/2zjDXx6                   |
+| Alternator/Battery Master Switch | Dual rocker switch                    | 1        | http://www.desktopaviator.com/Products/parts.htm |
+| Fuel Pump, Lights, Pitot Heat    | SPDT Toggle Switch                    | 7        | http://www.desktopaviator.com/Products/parts.htm |
+| Avionics Master Switch           | On/Off Rocker Switch                  | 1        | http://www.desktopaviator.com/Products/parts.htm |
