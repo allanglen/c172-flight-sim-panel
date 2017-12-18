@@ -2,7 +2,7 @@
 
 The switch panel simulates a typical setup in a steam gauge Cessna 172. The panel houses a custom-built spring-return [key switch](#key-switch), simulated [fuses](#fuses), and toggle switches for the electrical buses, fuel pump, lighting, pitot heat, and avionics.
 
- The panel is attached directly to the [frame](../frame) with pan-head screws.
+The panel is attached directly to the [frame](../frame) with truss-head screws.
 
 ![switch_panel](images/switch_panel.jpg)
 

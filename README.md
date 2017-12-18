@@ -11,7 +11,7 @@ In addition to using for flight training, building my own panel was a good excus
 
 ## Project Status
 
-As of November 2017, the panel is in a flyable state with a fully operating instrument panel, switch panel, throttle/mixture panel, flaps control, and yoke. Next up: the avionics stack!
+As of November 2017, the panel is in a flyable state with a fully operating instrument panel, switch panel, throttle/mixture controls, flaps control, and yoke. Next up: the avionics stack!
 
 ![latest](images/status.jpg)
 
@@ -67,7 +67,7 @@ For parts and construction details see the [yoke_mount](./yoke_mount) directory.
 
 I opted to build a "steam gauge" panel to be able to train with traditional instruments. I may build a glass version later (X-Plane 11.10 provides a G1000) but that will require some additional reconfiguration beyond just the instrument panel.
 
-The instrument panel is constructed from 1/4" inch birch plywood with cutouts for mounting instrument bezels and hardware. The panel is attached directly to the frame with pan-head screws.
+The instrument panel is constructed from 1/4" inch birch plywood with cutouts for mounting instrument bezels and hardware. The panel is attached directly to the frame with truss-head screws.
 
 The instruments are rendered with [Air Manager](https://www.siminnovations.com/).
 
@@ -79,7 +79,7 @@ For parts and construction details see the [instrument_panel](./instrument_panel
 
 The switch panel houses a custom-built spring-return key switch, simulated fuses, and toggle switches for the electrical buses, fuel pump, lighting, pitot heat, and avionics. 
 
-The switch panel is made from laser-engraved, painted white acrylic. The panel is attached directly to the frame with pan-head screws.
+The switch panel is made from laser-engraved, painted white acrylic. The panel is attached directly to the frame with truss-head screws.
 
 ![switch_panel](switch_panel/images/switch_panel.jpg)
 
@@ -89,7 +89,7 @@ For parts and construction details see the [switch_panel](./switch_panel) direct
 
 The throttle/mixture panel houses real Cessna 172 throttle and mixture controls (yes, I cheated but I didn't like any of the solutions I came up with for building a functioning Vernier mixture control and I wanted to the throttle and mixture to have an accurate feel).
 
-The throttle/mixture panel is made from laser-engraved, painted white acrylic. The panel is attached directly to the frame with pan-head screws.
+The throttle/mixture panel is made from laser-engraved, painted white acrylic. The panel is attached directly to the frame with truss-head screws.
 
 ![throttle_mixture_panel](throttle_mixture_panel/images/throttle_mixture_panel.jpg)
 
@@ -99,7 +99,7 @@ For parts and construction details see the [throttle_mixture_panel](./throttle_m
 
 The flaps panels houses a custom-built electronic flaps control with a flaps indicator that shows the actual position of the flaps in the simulator.
 
-The flaps control is constructed from a combination of 3d printed and laser-cut parts and uses a real Cessna 172 flaps lever (I found a cheap part on ebay). The flaps panel is made from laser-engraved, painted white acrylic. The panel is attached directly to the frame with pan-head screws.
+The flaps control is constructed from a combination of 3d printed and laser-cut parts and uses a real Cessna 172 flaps lever (I found a cheap part on ebay). The flaps panel is made from laser-engraved, painted white acrylic. The panel is attached directly to the frame with truss-head screws.
 
 ![flaps_panel](flaps_panel/images/flaps_panel.jpg)
 
