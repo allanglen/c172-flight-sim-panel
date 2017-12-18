@@ -23,9 +23,9 @@ The panel frame is constructed from plywood and requires basic woodworking tools
 
 Many of the panel components are **3d printed** and/or **laser cut/engraved** and you would need both to build according to the instructions provided here.
 
-For the 3d printer, I am using the [Monoprice Select Mini 3d Printer (v2)](https://www.monoprice.com/product?p_id=21711). The Select Mini has been an excellent, cost-effective printer and has worked very well for this project.
+For the 3d printer, I am using the [Monoprice Select Mini 3d Printer (v2)](http://amzn.to/2yNIe8t). The Select Mini has been an excellent, cost-effective printer and has worked very well for this project.
 
-For the laser cutter, I am using a [K40 laser cutter](https://www.reddit.com/r/lasercutting/wiki/k40) that I have customized for my purposes (air assist, z-adjustable bed, laser alignment/focus guide, fence etc.). A laser cutter is very useful for making panels as it can be used for both precision cutting and engraving. 
+For the laser cutter, I am using a [K40 laser cutter](http://ebay.to/2kDLgY0) that I have customized for my purposes (air assist, z-adjustable bed, laser alignment/focus guide, fence etc.). A laser cutter is very useful for making panels as it can be used for both precision cutting and engraving. 
 
 ### Software
 
@@ -57,7 +57,7 @@ For parts and construction details see the [frame](./frame) directory.
 
 ### Yoke Mount
 
-The yoke mount allows a [CH Eclipse Yoke](http://www.chproducts.com/Eclipse-Yoke-v13-d-717.html) to be securely attached to the panel and allows the entire panel to be detached from the desk without disassembly. The mount allows the yoke to be lower than it would be if mounted directly to the desk and puts the yoke the correct distance away from the panel.
+The yoke mount allows a [CH Eclipse Yoke](http://amzn.to/2oves8J) to be securely attached to the panel and allows the entire panel to be detached from the desk without disassembly. The mount allows the yoke to be lower than it would be if mounted directly to the desk and puts the yoke the correct distance away from the panel.
 
 ![yoke_mount](yoke_mount/images/yoke_mount.jpg)
 
@@ -115,7 +115,7 @@ Work in progress. I'm planning on building out a fully simulated Garmin G430 wit
 
 ## Input/Output
 
-The panel was originally designed for use with [FSUIPC-supported](http://www.schiratti.com/dowson.html) simulators ([FSX](http://store.steampowered.com/app/314160/Microsoft_Flight_Simulator_X_Steam_Edition/), [Prepar3d](https://www.prepar3d.com/)) but I moved to [X-Plane 11](http://www.schiratti.com/dowson.html) as my simulator of choice part way through the build process. As a result, most of the code artifacts provided here are specific to X-Plane 11.
+The panel was originally designed for use with [FSUIPC-supported](http://www.schiratti.com/dowson.html) simulators ([FSX](http://store.steampowered.com/app/314160/Microsoft_Flight_Simulator_X_Steam_Edition/), [Prepar3d](https://www.prepar3d.com/)) but I moved to [X-Plane 11](http://www.x-plane.com/) as my simulator of choice part way through the build process. As a result, most of the code artifacts provided here are specific to X-Plane 11.
 
 I am using the excellent [ArdSimX Interface](http://simvim.com/ardsimx/) for interfacing Arduino Mega hardware with X-Plane. 
 
