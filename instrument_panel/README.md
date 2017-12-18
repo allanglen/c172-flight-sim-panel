@@ -18,6 +18,8 @@ The instrument bezels provide a clean way for framing the 2d instruments that ar
 
 There are models for each bezel type (`bezel_large.FCStd`, `bezel_small.FCStd`, `bezel_annunciator.FCStd`) and components in each model can be toggled on/off to produce STL files for all of the required instruments.
 
+These parts are also available on Thingiverse at https://www.thingiverse.com/thing:2690541
+
 ### Large Instruments (3 1/2")
 
 `bezel_large.stl` (tachometer, turn and balance indicator)
