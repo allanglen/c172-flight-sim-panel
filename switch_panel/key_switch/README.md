@@ -18,7 +18,7 @@ The rotary encoder is mounted into the small hole and the cabinet lock is presse
 
 Some modifications must be made to the cabinet lock to allow the shaft of the rotary encoder to be securely attached:
 
-1. Drill out the screw hole in the cabinet lock body to allow the shaft of the rotary encoder to be inserted snugly into the body of the lock
+1. Drill out the screw hole in the cabinet lock body to allow the shaft of the rotary encoder to be inserted snugly into the body of the lock. A washer or two may be needed to ensure the bar on the cabinet lock is securely fitted over the square mount on the cabinet lock body.
 2. Drill a hole in the side of the cabinet lock body and tap it to allow a hex set screw to be secured against the rotary encoder shaft. A hole must also be made in the cabinet lock barrel to allow access to the set screw
 3. Remove the rotational stop from the cabinet lock barrel. This design uses the stops of the rotary switch instead.
 
@@ -30,10 +30,10 @@ For wiring details, see http://www.simvim.com/ardsimx/inputs/rotary_a.png. I use
 
 ## Parts List
 
-| Component                | Part                            | Quantity | Source                                   |
-| ------------------------ | ------------------------------- | -------- | ---------------------------------------- |
-| Cabinet lock             | Drawer & Cabinet Lock, 1-1/8 in | 1        | https://www.amazon.com/gp/product/B000BDB686 |
-| Spring                   | Extension Spring, 7/32" x 1"    | 1        | https://www.amazon.com/gp/product/B000M61J9I |
-| Spring mounting screws   | Round head screw, #6-32 1/4"    | 2        |                                          |
-| 5 position Rotary switch | Panel Mount 2P5T Rotary Switch  | 7        | https://www.ebay.com/itm/Shaft-Panel-Mount-2P5T-Rotary-Switch-Selector-Band-2-Pole-Position-5-RS25/282257734920 |
-| Hex head set screw       | Hex Head Set Screw              | 1        | https://www.amazon.com/dp/B07444W57M     |
+| Component                | Part                            | Quantity | Source                 |
+| ------------------------ | ------------------------------- | -------- | ---------------------- |
+| Cabinet lock             | Drawer & Cabinet Lock, 1-1/8 in | 1        | http://amzn.to/2yQJZlz |
+| Spring                   | Extension Spring, 7/32" x 1"    | 1        | http://amzn.to/2BzLGct |
+| Spring mounting screws   | Round head screw, #6-32 1/4"    | 2        | http://amzn.to/2yMTstO |
+| 5 position Rotary switch | Panel Mount 2P5T Rotary Switch  | 7        | http://ebay.to/2B5hJS6 |
+| Hex head set screw       | Hex Head Set Screw              | 1        | http://amzn.to/2BB8ubD |
