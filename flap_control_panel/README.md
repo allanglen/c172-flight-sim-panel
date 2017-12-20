@@ -26,7 +26,7 @@ I used 25mm M3 nylon hex spacers to secure the frame sides at the rear of the as
 
 ![flaps_frame](images/flaps_frame.jpg)
 
-![flap-lever-mount-rear](images/flap-lever-mount-rear.jpg)
+![flap_lever_mount_rear](images/flap_lever_mount_rear.jpg)
 
 #### Frame Left Panel
 
