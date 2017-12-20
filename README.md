@@ -11,7 +11,7 @@ In addition to using for flight training, building my own panel was a good excus
 
 ## Project Status
 
-As of November 2017, the panel is in a flyable state with a fully operating instrument panel, switch panel, throttle/mixture controls, flaps control, and yoke. Next up: the avionics stack!
+As of November 2017, the panel is in a flyable state with a fully operating instrument panel, switch panel, throttle/mixture controls, flap control, and yoke. Next up: the avionics stack!
 
 ![latest](images/status.jpg)
 
@@ -95,15 +95,13 @@ The throttle/mixture panel is made from laser-engraved, painted white acrylic. T
 
 For parts and construction details see the [throttle_mixture_panel](./throttle_mixture_panel) directory.
 
-### Flaps Panel
+### Flap Control Panel
 
-The flaps panels houses a custom-built electronic flaps control with a flaps indicator that shows the actual position of the flaps in the simulator.
+The flap control panel houses a custom-built electronic flap control with a flap indicator that shows the position of the flaps in the simulator.
 
-The flaps control is constructed from a combination of 3d printed and laser-cut parts and uses a real Cessna 172 flaps lever (I found a cheap part on ebay). The flaps panel is made from laser-engraved, painted white acrylic. The panel is attached directly to the frame with truss-head screws.
+![flap_control_panel](flap_control_panel/images/flaps_panel.jpg)
 
-![flaps_panel](flaps_panel/images/flaps_panel.jpg)
-
-For parts and construction details see the [flaps_panel](./flaps_panel) directory.
+For parts and construction details see the [flap_control_panel](./flap_control_panel) directory.
 
 ### Trim Wheel
 
