@@ -32,7 +32,7 @@ I used 25mm M3 nylon hex spacers to secure the frame sides at the rear of the as
 
 The left side of the frame is used to mount the servo for the flaps position indicator.
 
-`flap_frame.left.svg`
+`flap_frame_left.svg`
 
 ![flap_frame_left](flap_frame_left.svg)
 
@@ -43,6 +43,8 @@ The left side of the frame is used to mount the servo for the flaps position ind
 #### Frame Right Panel
 
 The right side of the frame is used to mount the potentiometer to which the position indicator is attached.
+
+`flap_frame_right.svg`
 
 ![flap_frame_right](flap_frame_right.svg)
 
