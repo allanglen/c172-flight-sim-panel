@@ -14,7 +14,7 @@ The panel is laser cut from white acrylic, painted black, and then laser engrave
 
 ## Flap Control
 
-The flaps control is constructed from a combination of 3d printed and laser-cut parts and uses a genuine Cessna 172 flaps lever that I found for cheap on eBay.
+The flap control is constructed from a combination of 3d printed and laser-cut parts and uses a genuine Cessna 172 flaps lever that I found for cheap on eBay.
 
 ### Frame
 

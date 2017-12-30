@@ -109,7 +109,7 @@ Work in progress. This will "hang" below the panel and will also house the fuel 
 
 ### Avionics
 
-Work in progress. I'm planning on building out a fully simulated Garmin G430 with Bendix/King avionics for the rest of the stack. I would like to make the avionics modular so that I can swap out various configurations.
+Work in progress. I'm planning on building out a fully simulated avionics stack to match that found in the X-Plane default Cessna 172. I plan on making the avionics modular so that I can swap out various configurations later.
 
 ## Input/Output
 
