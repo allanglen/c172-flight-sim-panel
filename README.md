@@ -11,7 +11,7 @@ In addition to using for flight training, building my own panel was a good excus
 
 ## Project Status
 
-As of November 2017, the panel is in a flyable state with a fully operating instrument panel, switch panel, throttle/mixture controls, flap control, and yoke. Next up: the avionics stack!
+As of November 2017, the panel is in a flyable state with a fully operating [instrument panel](./instrument_panel), [switch panel](./switch_panel), [throttle/mixture controls](./throttle_mixture_panel), [flap control](./flap_control_panel), and [yoke](./yoke_mount). Next up: the [avionics stack](./avionics)!
 
 ![latest](images/status.jpg)
 
@@ -75,6 +75,12 @@ The instruments are rendered with [Air Manager](https://www.siminnovations.com/)
 
 For parts and construction details see the [instrument_panel](./instrument_panel) directory.
 
+### Avionics
+
+Work in progress. I'm planning on building out a fully simulated avionics stack to match that found in the X-Plane default Cessna 172. I plan on making the avionics modular so that I can swap out various configurations later.
+
+For parts and construction details see the [avionics](./avionics) directory.
+
 ### Switch Panel
 
 The switch panel houses a custom-built spring-return key switch, simulated fuses, and toggle switches for the electrical buses, fuel pump, lighting, pitot heat, and avionics. 
@@ -106,10 +112,6 @@ For parts and construction details see the [flap_control_panel](./flap_control_p
 ### Trim Wheel
 
 Work in progress. This will "hang" below the panel and will also house the fuel selector valve and fuel cut-off switch. The height of my desk doesn't allow the fuel selector valve to be floor-mounted like it normally would be so I will be making some compromises on layout here.
-
-### Avionics
-
-Work in progress. I'm planning on building out a fully simulated avionics stack to match that found in the X-Plane default Cessna 172. I plan on making the avionics modular so that I can swap out various configurations later.
 
 ## Input/Output
 
