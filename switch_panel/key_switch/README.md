@@ -13,7 +13,7 @@ The switch is assembled from a 3d printed mount, a filing cabinet lock, and a 5 
 | Cabinet lock             | Drawer & Cabinet Lock, 1-1/8 in | 1        | http://amzn.to/2yQJZlz |
 | Spring                   | Extension Spring, 7/32" x 1"    | 1        | http://amzn.to/2BzLGct |
 | Spring mounting screws   | Round head screw, #6-32 1/4"    | 2        | http://amzn.to/2yMTstO |
-| 5 position Rotary switch | Panel Mount 2P5T Rotary Switch  | 7        | http://ebay.to/2B5hJS6 |
+| 5 position Rotary switch | Panel Mount 2P5T Rotary Switch  | 1        | http://amzn.to/2BWSu0t |
 | Hex head set screw       | Hex Head Set Screw              | 1        | http://amzn.to/2BB8ubD |
 
 ## Assembly
