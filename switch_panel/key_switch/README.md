@@ -24,7 +24,7 @@ The components of the key switch are mounted into a 3d printed mount that allows
 
 ![key_switch.stl](https://cdn.thingiverse.com/renders/5a/88/6d/c2/59/c6c4b9057df0631dab33539f41e4be01_preview_featured.jpg)
 
-The rotary encoder is mounted into the small hole and the cabinet lock is pressed through the [panel](../)and into the large hole.
+The rotary encoder is mounted into the small hole and the cabinet lock is pressed through the [panel](../) and into the large hole.
 
 Some modifications must be made to the cabinet lock to allow the shaft of the rotary encoder to be securely attached:
 

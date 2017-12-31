@@ -1,6 +1,6 @@
 # Garmin GNS 430
 
-The Garmin GNS 430 is no longer in production but it continues to be ubiquitous in general aviation. This GPS is specifically designed for use with X-Plane 11.10 (or greater) and uses the [screen-only popup instrument window](https://developer.x-plane.com/2017/09/three-lesser-known-aircraft-features-for-11-10/) feature in X-Plane to render the GPS screen on an HDMI display that in integrated into the assembly.
+The Garmin GNS 430 is no longer in production but it continues to be ubiquitous in general aviation. This GPS is specifically designed for use with X-Plane 11.10 (or greater) and uses the [screen-only popup instrument window](https://developer.x-plane.com/2017/09/three-lesser-known-aircraft-features-for-11-10/) feature in X-Plane to render the GPS screen on an HDMI display that is integrated into the assembly.
 
 ![garmin_gns_430](images/garmin_gns_430.jpg)
 
@@ -8,17 +8,15 @@ The Garmin GNS 430 is no longer in production but it continues to be ubiquitous 
 
 ## Parts List
 
-| Component                                | Part                                     | Quantity               | Source                                   |
-| ---------------------------------------- | ---------------------------------------- | ---------------------- | ---------------------------------------- |
-| Panel                                    | 3/16" bright white cast acrylic          | 165x69 mm              | http://ebay.to/2Bn1CMs                   |
-| Panel (hardware mount)                   | 3/16" cast acrylic                       | 156x69 mm              | http://ebay.to/2Bn1CMs                   |
-| Panel (avionics mounts)                  | 3/16" cast acrylic                       | 60x69 mm<br />60x69 mm | http://ebay.to/2Bn1CMs                   |
-| Display                                  | Waveshare 4inch HDMI LCD Resistive Touch Screen 800x480 | 1                      | http://amzn.to/2CdkoJP                   |
-| Knobs                                    | 8mm Dual Rotary Encoder Switch w/Knobs & Mounting PCB | 2                      | http://www.desktopaviator.com/Products/parts.htm |
-| Push Buttons                             | 7mmx7mm Momentary DPDT Mini Push Button Switch | 13                     | http://amzn.to/2BWXQc5                   |
-| Power/volume                             | 20K Ohm Dual Linear Taper Potentiometer Switch | 2                      | http://amzn.to/2Cr6Asi                   |
-| Screws (for attaching hardware mount to the faceplate) | \#6-32 x 1/2" Phillips Pan Head Screws   | 4                      | http://amzn.to/2DC4JzY                   |
-| Screws (for attaching avionics mounts to mounting brackets) | \#4 x 1/2" Flat Head Sheet Metal Screws  | 4                      |                                          |
+| Component                                | Part                                     | Quantity  | Source                                   |
+| ---------------------------------------- | ---------------------------------------- | --------- | ---------------------------------------- |
+| Faceplate, hardware mount, mounting brackets | 3/16" bright white cast acrylic          | 441x69 mm | http://ebay.to/2Bn1CMs                   |
+| Display                                  | Waveshare 4inch HDMI LCD Resistive Touch Screen 800x480 | 1         | http://amzn.to/2CdkoJP                   |
+| Knobs                                    | 8mm Dual Rotary Encoder Switch w/Knobs & Mounting PCB | 2         | http://www.desktopaviator.com/Products/parts.htm |
+| Push Buttons                             | 7mmx7mm Momentary DPDT Mini Push Button Switch | 13        | http://amzn.to/2BWXQc5                   |
+| Power/volume                             | 20K Ohm Dual Linear Taper Potentiometer Switch | 2         | http://amzn.to/2Cr6Asi                   |
+| Screws (for attaching hardware mount to the faceplate) | \#6-32 x 1/2" Phillips Pan Head Screws   | 4         | http://amzn.to/2DC4JzY                   |
+| Screws (for attaching avionics mounts to mounting brackets) | \#4 x 1/2" Flat Head Sheet Metal Screws  | 4         |                                          |
 
 ## Faceplate
 
