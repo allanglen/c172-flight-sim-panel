@@ -24,7 +24,7 @@ These parts are also available on Thingiverse at https://www.thingiverse.com/thi
 
 `bezel_large.stl` (tachometer, turn and balance indicator)
 
-![large_bezel.stl](https://cdn.thingiverse.com/renders/4f/a6/b1/d0/d8/bcd29e43e508982c7a6248004207fe23_preview_featured.jpg)
+![large_bezel.stl](https://cdn.thingiverse.com/renders/f5/dd/02/7e/b4/bcd29e43e508982c7a6248004207fe23_preview_featured.jpg?1)
 
 `bezel_large_single_encoder.stl` (airspeed indicator, altimeter, vsi, vor, adf)
 
