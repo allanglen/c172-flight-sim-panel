@@ -6,6 +6,17 @@ The instrument panel simulates the typical setup in a steam gauge Cessna 172.
 
 
 
+## Parts List
+
+| Component                          | Part                                     | Quantity  | Source                      |
+| ---------------------------------- | ---------------------------------------- | --------- | --------------------------- |
+| Panel                              | 1/4" birch plywood                       | 14" x 24" |                             |
+| Screws (for attaching instruments) | \#6-32 x 1/4" Phillips Pan Head Screws   | 55        | http://amzn.to/2yMTstO      |
+| Screws (for attaching panel)       | \#8 x 3/4" Phillips Truss Head Screws    | 12        | http://amzn.to/2zjDXx6      |
+| Encoders                           | Low-profile rotary encoders, 6mm shaft   | 9         | http://amzn.to/2BmVPXe      |
+| Buttons (for clock)                | Tactile push buttons (6x6x4.3mm)         | 3         | http://amzn.to/2kC8qxS      |
+| Annunciator switch                 | 3 position 2P3T Micro Right Angle Slide Switch | 1         | http://amzn.to/2kFSRVMPanel |
+
 ## Panel
 
 The instrument panel is constructed from painted 1/4" inch birch plywood with cutouts for mounting instrument bezels and hardware. All parts for the panel are designed to fit into the depth of the panel.
@@ -61,15 +72,4 @@ These parts are also available on Thingiverse at https://www.thingiverse.com/thi
 `bezel_annunciator.stl` (annunciators)
 
 ![bezel_annunciator.stl](https://cdn.thingiverse.com/renders/b6/18/b7/cd/bf/ea642fa15b62c3cd30a555506e826603_preview_featured.jpg)
-
-## Parts List
-
-| Component                          | Part                                     | Quantity  | Source                 |
-| ---------------------------------- | ---------------------------------------- | --------- | ---------------------- |
-| Panel                              | 1/4" birch plywood                       | 14" x 24" |                        |
-| Screws (for attaching instruments) | \#6-32 x 1/4" Phillips Pan Head Screws   | 55        | http://amzn.to/2yMTstO |
-| Screws (for attaching panel)       | \#8 x 3/4" Phillips Truss Head Screws    | 12        | http://amzn.to/2zjDXx6 |
-| Encoders                           | Low-profile rotary encoders, 6mm shaft   | 9         | http://amzn.to/2BmVPXe |
-| Buttons (for clock)                | Tactile push buttons (6x6x4.3mm)         | 3         | http://amzn.to/2kC8qxS |
-| Annunciator switch                 | 3 position 2P3T Micro Right Angle Slide Switch | 1         | http://amzn.to/2kFSRVM |
 

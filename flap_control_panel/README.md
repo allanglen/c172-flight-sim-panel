@@ -6,6 +6,19 @@ The flap control assembly includes a servo-actuated flap position indicator that
 
 ![flaps_panel](images/flaps_panel.jpg)
 
+## Parts List
+
+| Component                                | Part                                     | Quantity | Source                 |
+| ---------------------------------------- | ---------------------------------------- | -------- | ---------------------- |
+| Panel                                    | 3/16" bright white cast acrylic          | 282x89mm | http://ebay.to/2Bn1CMs |
+| Screws (for attaching panel to frame)    | \#8 x 3/4" Phillips Truss Head Screws    | 4        | http://amzn.to/2zjDXx6 |
+| Screws (for attaching frame mounting bracket) | M3 x 8mm Hex Socket Head Self-Tapping Screws | 6        | http://amzn.to/2B0ZE3B |
+| Flap assembly frame spacers              | M3 25mm female nylon spacers             | 2        |                        |
+| Flap assembly Screws (for attaching flap control face plate) | \#6-32 x 1/2" Philips Pan Head Screws    | 4        | http://amzn.to/2D7ipUl |
+| Tension spring for flap lever mount      | 7/32" x 11/16" Comp Spring               | 1        | http://amzn.to/2BzLGct |
+| Potentiometer shaft spring for flap lever | 3/8" x 5/8" Comp Spring                  | 1        | http://amzn.to/2BzLGct |
+| Flap position indicator servo            | SG90 Micro Servo                         | 1        | http://amzn.to/2Da6KnA |
+
 ## Panel
 
 The panel is laser cut from white acrylic, painted black, and then laser engraved. The panel is attached directly to the frame with truss-head screws.
@@ -109,16 +122,3 @@ The flap position indicator is 3d printed from white PLA and is attached to the 
 ## Cabin Heat/Air Knobs
 
 Work in progress.
-
-## Parts List
-
-| Component                                | Part                                     | Quantity | Source                 |
-| ---------------------------------------- | ---------------------------------------- | -------- | ---------------------- |
-| Panel                                    | 3/16" bright white cast acrylic          | 282x89mm | http://ebay.to/2Bn1CMs |
-| Screws (for attaching panel to frame)    | \#8 x 3/4" Phillips Truss Head Screws    | 4        | http://amzn.to/2zjDXx6 |
-| Screws (for attaching frame mounting bracket) | M3 x 8mm Hex Socket Head Self-Tapping Screws | 6        | http://amzn.to/2B0ZE3B |
-| Flap assembly frame spacers              | M3 25mm female nylon spacers             | 2        |                        |
-| Flap assembly Screws (for attaching flap control face plate) | \#6-32 x 1/2" Philips Pan Head Screws    | 4        | http://amzn.to/2D7ipUl |
-| Tension spring for flap lever mount      | 7/32" x 11/16" Comp Spring               | 1        | http://amzn.to/2BzLGct |
-| Potentiometer shaft spring for flap lever | 3/8" x 5/8" Comp Spring                  | 1        | http://amzn.to/2BzLGct |
-| Flap position indicator servo            | SG90 Micro Servo                         | 1        | http://amzn.to/2Da6KnA |

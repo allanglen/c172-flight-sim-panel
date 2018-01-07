@@ -4,6 +4,12 @@ The panel fuses are made from DPDT push buttons with 3d printed button caps. The
 
 ![fuses](images/fuses.jpg)
 
+## Parts List
+
+| Component | Part                                     | Quantity | Source                                   |
+| --------- | ---------------------------------------- | -------- | ---------------------------------------- |
+| Fuses     | 6 Pin DPDT self-locking micro push button switches | 9        | https://www.amazon.com/gp/product/B01KJHR3W6 |
+
 ## Fuse Button Caps
 
 The button caps are 3d printed from white PLA, painted black, and then laser engraved.
@@ -45,10 +51,3 @@ The fuse switches are mounted to the back of the panel by gluing the switches in
 `fuse_button_mount_right.svg`
 
 ![fuse_button_mount_right](fuse_button_mount_right.svg)
-
-## Parts List
-
-| Component | Part                                     | Quantity | Source                                   |
-| --------- | ---------------------------------------- | -------- | ---------------------------------------- |
-| Fuses     | 6 Pin DPDT self-locking micro push button switches | 9        | https://www.amazon.com/gp/product/B01KJHR3W6 |
-
