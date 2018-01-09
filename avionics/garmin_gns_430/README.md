@@ -16,7 +16,7 @@ The Garmin GNS 430 is no longer in production but it continues to be ubiquitous 
 | Push Buttons                             | 7mmx7mm Momentary DPDT Mini Push Button Switch | 13        | http://amzn.to/2BWXQc5                   |
 | Power/volume                             | 20K Ohm Dual Linear Taper Potentiometer Switch | 2         | http://amzn.to/2Cr6Asi                   |
 | Screws (for attaching hardware mount to the faceplate) | \#6-32 x 1/2" Phillips Pan Head Screws   | 4         | http://amzn.to/2DC4JzY                   |
-| Screws (for attaching avionics mounts to mounting brackets) | \#4 x 1/2" Flat Head Sheet Metal Screws  | 4         |                                          |
+| Screws (for attaching frame mounts to mounting brackets) | \#4 x 1/2" Flat Head Sheet Metal Screws  | 4         |                                          |
 
 ## Faceplate
 
@@ -36,23 +36,23 @@ The hardware mount provides a layer for mounting the push-buttons and the displa
 
 ![hardware_mount](hardware_mount.svg)
 
-## Avionics Mounts
+## Frame Mounts
 
-The avionics mounts are used to attach the assembly to the [frame](../../frame).
+The frame mounts are used to attach the assembly to the [frame](../../frame).
 
-`avionics_mount_left.svg`
+`frame_mount_left.svg`
 
 ![avionics_mount_left](avionics_mount_left.svg)
 
-`avionics_mount_right.svg`
+`frame_mount_right.svg`
 
 ![avionics_mount_right](avionics_mount_right.svg)
 
-## Avionics Mount Brackets
+## Frame Mount Brackets
 
-The avionics mounts are attached to the hardware mount with these brackets and \#4 x 1/2" flat head screws.
+The frame mounts are attached to the hardware mount with these brackets and \#4 x 1/2" flat head screws.
 
-`avionics_mount_bracket.stl` (https://www.thingiverse.com/thing:2723972)
+`frame_mount_bracket.stl` (https://www.thingiverse.com/thing:2723972)
 
 ![avionics_mount_bracket.stl](https://cdn.thingiverse.com/renders/3d/a6/eb/89/ea/88d4e7de8c76623ca0bd0ad7de6612ff_preview_featured.jpg)
 
