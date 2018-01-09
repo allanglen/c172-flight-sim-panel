@@ -1,4 +1,9 @@
+
+
 # Cessna 172 Skyhawk Flight Simulator Panel
+
+[![License](https://img.shields.io/github/license/allanglen/c172-flight-sim-panel.svg)](https://opensource.org/licenses/Apache-2.0) [![Thingiverse Collection](https://img.shields.io/badge/thingiverse-Cessna%20172%20Flight%20Sim%20Panel-brightgreen.svg?logo=data%3Aimage%2Fpng%3Bbase64%2CiVBORw0KGgoAAAANSUhEUgAAAA4AAAAOCAMAAAAolt3jAAAAaVBMVEUki%2Foki%2FsljPsmjPsojfsykvsyk%2Fs3lfs%2FmftAmvxBmvxDm%2FxEnPxFnPxGnfxHnvxnrvxrsfxus%2FxxtPx2tv2ezP2gzf2izf2jzv2kz%2F2m0P2o0f2p0v2x1v602P612P632f642f7%2F%2F%2F8cEmj0AAAAAXRSTlO%2BbD9G7QAAAGlJREFUeNp1zscSgCAMRVFiQyxg70rw%2Fz9STMbRjXeRydk9IeAT642oesQhf1g5DVDYmqlcrH3JURJ73Zy%2BLpuJCEE0bVHoHybAuPrDHApmuhBzG94MdkOE%2BsikTPf2mVHOiIsB5v9ocQF%2FSgYDOQkwkwAAAABJRU5ErkJggg%3D%3D)](https://www.thingiverse.com/allanglen/collections/cessna-172-flight-simulator-panel)
+
 This repository contains drawings, 3d models, laser-cutting templates, and code artifacts that were created to build a Cessna 172 Skyhawk flight simulator panel. The content here primarily serves as a means to organize and document the project and some basic assembly instructions are provided.
 
 This project is a work in progress and components will be added as construction progresses.
@@ -93,7 +98,7 @@ For parts and construction details see the [switch_panel](./switch_panel) direct
 
 ### Throttle/Mixture Panel
 
-The throttle/mixture panel houses real Cessna 172 throttle and mixture controls (yes, I cheated but I didn't like any of the solutions I came up with for building a functioning Vernier mixture control and I wanted to the throttle and mixture to have an accurate feel).
+The throttle/mixture panel houses genuine Cessna 172 throttle and mixture controls (yes, I cheated but I didn't like any of the solutions I came up with for building a functioning Vernier mixture control and I wanted the throttle and mixture to have an accurate feel).
 
 The throttle/mixture panel is made from laser-engraved, painted white acrylic. The panel is attached directly to the frame with truss-head screws.
 
