@@ -42,11 +42,11 @@ The frame mounts are used to attach the assembly to the [frame](../../frame).
 
 `frame_mount_left.svg`
 
-![avionics_mount_left](avionics_mount_left.svg)
+![frame_mount_left](frame_mount_left.svg)
 
 `frame_mount_right.svg`
 
-![avionics_mount_right](avionics_mount_right.svg)
+![frame_mount_right](frame_mount_right.svg)
 
 ## Frame Mount Brackets
 
@@ -54,7 +54,7 @@ The frame mounts are attached to the hardware mount with these brackets and \#4 
 
 `frame_mount_bracket.stl` (https://www.thingiverse.com/thing:2723972)
 
-![avionics_mount_bracket.stl](https://cdn.thingiverse.com/renders/3d/a6/eb/89/ea/88d4e7de8c76623ca0bd0ad7de6612ff_preview_featured.jpg)
+![frame_mount_bracket.stl](https://cdn.thingiverse.com/renders/3d/a6/eb/89/ea/88d4e7de8c76623ca0bd0ad7de6612ff_preview_featured.jpg)
 
 ### Display Mounting Clips
 
