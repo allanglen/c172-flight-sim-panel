@@ -6,7 +6,7 @@ name: &name "Allan Glen"
 email: allan@allanglen.com
 description: >-
   Design files, 3d models, wiring diagrams, and code artifacts for building a Cessna 172 Skyhawk flight simulator panel.
-url: "https://cessna-172-sim-panel.allanglen.com"
+url: "http://c172-flight-sim-panel.allanglen.com"
 baseurl: ""
 github_username:  allanglen
 repository: allanglen/c172-flight-sim-panel
