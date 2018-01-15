@@ -17,6 +17,10 @@ search_full_content      : true
 # Theme (see https://mmistakes.github.io/minimal-mistakes/docs/quick-start-guide/)
 remote_theme: "mmistakes/minimal-mistakes@4.9.0"
 
+# Plugins
+plugins:
+  - jekyll-sitemap
+
 # Conversion
 markdown: kramdown
 highlighter: rouge
