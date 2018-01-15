@@ -43,8 +43,8 @@ feature_row:
     btn_label: "Details"
 intro:
   - excerpt: >-
-    The content here primarily serves as a means to organize and document the project and to share it with the flight sim community.<br/><br/>
-    This project is a work in progress and new content will be added as construction progresses.
+      The content here primarily serves as a means to organize and document the project and to share it with the flight sim community.<br/><br/>
+      This project is a work in progress and new content will be added as construction progresses.
 ---
 
 {% include feature_row id="intro" type="center" %}
