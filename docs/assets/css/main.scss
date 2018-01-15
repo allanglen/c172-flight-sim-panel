@@ -1,0 +1,26 @@
+---
+# Only the main Sass file needs front matter (the dashes are enough)
+---
+
+@charset "utf-8";
+
+// Override the serif font
+$serif: "Lora", Georgia, Times, serif;
+
+$global-font-family : $serif;
+
+@import "minimal-mistakes/skins/{{ site.minimal_mistakes_skin | default: 'default' }}"; // skin
+
+@import "minimal-mistakes"; // main partials
+
+// Overrides
+
+// Don't show the page title on the hero overlay
+.page__hero--overlay .page__title {
+    display: none;
+}
+
+// Don't make highlight titles look like links on the main page
+.archive__item:hover .archive__item-title {
+    text-decoration: none;
+}

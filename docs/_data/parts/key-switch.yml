@@ -1,0 +1,29 @@
+- component: 'Cabinet lock'
+  part: 'Drawer & Cabinet Lock, 1-1/8 in'
+  quantity: 1
+  link: https://www.amazon.com/gp/product/B000BDB686
+  source: Amazon
+
+- component: 'Spring'
+  part: 'Extension Spring, 7/32” x 1”'
+  quantity: 1
+  link: https://www.amazon.com/gp/product/B000M61J9I
+  source: Amazon
+
+- component: 'Spring mounting screws'
+  part: 'Round head screw, #6-32 1/4"'
+  quantity: 2
+  link: https://www.amazon.com/gp/product/B00F3599ZE
+  source: Amazon
+
+- component: '5 position rotary switch'
+  part: 'Panel Mount 2P5T Rotary Switch'
+  quantity: 1
+  link: https://www.amazon.com/Position-Channel-Selector-Rotary-Switch/dp/B00K82ZBD6
+  source: Amazon
+
+- component: 'Hex head set screw'
+  part: 'Hex Head Set Screw'
+  quantity: 1
+  link: https://www.amazon.com/dp/B07444W57M
+  source: Amazon

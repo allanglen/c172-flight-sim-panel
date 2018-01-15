@@ -1,0 +1,11 @@
+{% assign file_rel = page.url | split:"/" | last | append: "/" | append: include.file %}
+{% assign file_abs = '/assets/images/' | append: file_rel %}
+<figure>
+    <a href="{{include.image}}" title="{{include.file}}">
+        <img src="{{include.image}}" alt="{{include.file}}" />
+    </a>
+    <figcaption>
+        <strong>File:</strong> {{include.file}} (<a href="https://www.thingiverse.com/thing:{{include.thing}}#files">Thingiverse</a>)
+    </figcaption>
+</figure>
+

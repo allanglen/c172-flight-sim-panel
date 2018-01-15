@@ -1,0 +1,40 @@
+- component: 'Panel'
+  part: '1/4” birch plywood'
+  quantity: 14” x 24”
+  link:
+
+- component: 'Display'
+  part: 'Acer V233H 23 Inch LCD 1080P Widescreen Monitor'
+  quantity: 1
+  link: https://www.amazon.com/V233H-Acer-1080P-Widescreen-Monitor/dp/B00GX3TWNO
+  source: Amazon
+
+- component: 'Screws (for attaching instruments)'
+  part: '#6-32 x 1/4” Phillips Pan Head Screws'
+  quantity: 55
+  link: https://www.amazon.com/gp/product/B00F3599ZE
+  source: Amazon
+
+- component: 'Screws (for attaching panel)'
+  part: '#8 x 3/4” Phillips Truss Head Screws'
+  quantity: 12
+  link: https://www.amazon.com/gp/product/B0002ZPF12
+  source: Amazon
+
+- component: 'Encoders'
+  part: 'Low-profile rotary encoders, 6mm shaft'
+  quantity: 9
+  link: https://www.amazon.com/gp/product/B0177VGSQY
+  source: Amazon
+
+- component: 'Buttons (for clock)'
+  part: 'Tactile push buttons (6x6x4.3mm)'
+  quantity: 3
+  link: https://www.amazon.com/gp/product/B071KX71SV
+  source: Amazon
+
+- component: 'Annunciator switch'
+  part: '3 position 2P3T Micro Right Angle Slide Switch'
+  quantity: 1
+  link: https://www.amazon.com/gp/product/B01480QKHY
+  source: Amazon

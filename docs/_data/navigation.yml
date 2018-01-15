@@ -1,0 +1,48 @@
+main:
+  - title: "Home"
+    url: /
+  - title: "Documentation"
+    url: /docs/
+
+docs:
+  - title: "Overview"
+    url: /docs/
+    children:
+      - title: "Status"
+        url: /docs/#status
+
+  - title: Components
+    children:
+      - title: "Frame"
+        url: /docs/frame/
+      - title: "Instrument Panel"
+        url: /docs/instrument-panel/
+      - title: "Switch Panel"
+        url: /docs/switch-panel/
+      - title: "Key Switch"
+        url: /docs/key-switch/
+      - title: "Throttle/Mixture Panel"
+        url: /docs/throttle-mixture-panel/
+      - title: "Flap Control Panel"
+        url: /docs/flap-control-panel/
+      - title: "Trim Wheel"
+        url: /docs/trim-wheel/
+      - title: "Yoke Mount"
+        url: /docs/yoke-mount/
+
+  - title: "Avionics"
+    url: /docs/avionics/
+    children:
+      - title: "Garmin GMA 340"
+        url: /docs/avionics/garmin-gma-340/
+      - title: "Garmin GNS 530"
+        url: /docs/avionics/garmin-gns-530/
+      - title: "Garmin GNS 430"
+        url: /docs/avionics/garmin-gns-430/
+      - title: "S-Tec Fifty-Five X"
+        url: /docs/avionics/s-tec-55x/
+
+  - title: "Input/Output"
+    children:
+      - title: "ArdSimX"
+        url: /docs/io/ardsimx/

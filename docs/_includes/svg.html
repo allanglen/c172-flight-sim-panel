@@ -1,0 +1,12 @@
+{% assign file_rel = page.url | split:"/" | last | append: "/" | append: include.file %}
+{% assign file_abs = '/assets/svg/' | append: file_rel %}
+<a href="{{file_abs}}" title="{{include.file}}">
+    <img src="{{file_abs}}" alt="{{include.file}}" />
+</a>
+<figcaption>
+   <strong>File:</strong> <a href="{{file_abs}}" download="{{include.file}}">{{include.file}}</a>
+</figcaption>
+
+
+
+

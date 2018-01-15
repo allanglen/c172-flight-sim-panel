@@ -1,0 +1,35 @@
+- component: 'Panel'
+  part: '3/16” bright white cast acrylic'
+  quantity: 310x104mm
+  link: http://ebay.to/2Bn1CMs
+  source: Ebay
+
+- component: 'Screws (for attaching panel for frame)'
+  part: '#8 x 3/4” Phillips Truss Head Screws'
+  quantity: 6
+  link: https://www.amazon.com/gp/product/B0002ZPF12
+  source: Amazon
+
+- component: 'Rheostats'
+  part: 'Dual-concentric linear potentiometer'
+  quantity: 2
+  link: https://www.amazon.com/gp/product/B003AYM88A
+  source: Amazon
+
+- component: 'Throttle Control'
+  part: 'A-820 FRICTION LOCK CONTROL'
+  quantity: 1
+  link: https://www.aircraftspruce.com/catalog/appages/a820.php
+  source: Aircraft Spruce
+
+- component: 'Mixture Control'
+  part: 'A-790 VERNIER CONTROL'
+  quantity: 1
+  link: https://www.aircraftspruce.com/catalog/appages/a7902.php
+  source: Aircraft Spruce
+
+- component: 'Alt Static Air Switch'
+  part: 'Chrome Push/Pull Switch'
+  quantity: 1
+  link: http://www.desktopaviator.com/Products/parts.htm
+  source: Desktop Aviator

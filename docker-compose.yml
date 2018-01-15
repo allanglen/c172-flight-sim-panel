@@ -1,0 +1,23 @@
+version: "2"
+services:
+
+  # Runs the Jekyll development server for previewing docs locally
+  # docker-compose up docs
+  # open http://localhost:4000
+  docs:
+    image: jekyll/jekyll:latest
+    working_dir: /srv/jekyll/docs
+    command: jekyll serve --force_polling --incremental --livereload --config "_config.yml,_config.dev.yml"
+    environment:
+      - JEKYLL_LOG_LEVEL=debug
+      - JEKYLL_DEBUG=1
+       # Required in some Docker environments when host is detected as 0.0.0.0, _config.dev.yml is used
+       # to set the site url explicitly.
+      - JEKYLL_ENV=production
+    ports:
+      - 4000:4000
+      - 35729:35729
+      - 3000:3000
+    volumes:
+      - $PWD:/srv/jekyll
+      - $PWD/docs/.vendor/bundle:/usr/local/bundle

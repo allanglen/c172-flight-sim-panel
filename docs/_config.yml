@@ -1,0 +1,72 @@
+# Site settings
+locale: "en-US"
+title: Cessna 172 Flight Simulator Panel
+title_separator: "-"
+name: &name "Allan Glen"
+email: allan@allanglen.com
+description: >-
+  Design files, 3d models, wiring diagrams, and code artifacts for building a Cessna 172 Skyhawk flight simulator panel.
+url: "https://cessna-172-sim-panel.allanglen.com"
+baseurl: ""
+github_username:  allanglen
+repository: allanglen/c172-flight-sim-panel
+
+search                   : true
+search_full_content      : true
+
+# Theme
+theme: minimal-mistakes-jekyll
+
+# Conversion
+markdown: kramdown
+highlighter: rouge
+
+# Markdown processing
+kramdown:
+  input: GFM
+  hard_wrap: false
+  auto_ids: true
+  footnote_nr: 1
+  entity_output: as_char
+  toc_levels: 1..6
+  smart_quotes: lsquo,rsquo,ldquo,rdquo
+  enable_coderay: false
+
+# Collections
+collections:
+  docs:
+    output: true
+    permalink: /:collection/:path/
+
+# Defaults
+defaults:
+  - scope:
+      path: ""
+    values:
+      layout: single
+  - scope:
+      path: "assets/images"
+    values:
+      image: true
+  - scope:
+      path: ""
+      type: "docs"
+    values:
+      layout: single
+      toc: true
+      toc_label: Contents
+      header:
+        overlay_image: /assets/images/hero.jpg
+        overlay_filter: 0.1
+        show_overlay_excerpt: false
+      sidebar:
+        nav: "docs"
+
+# Files
+include:
+  - _pages
+
+# Site Author
+author:
+  name             : *name
+  github           : "allanglen"

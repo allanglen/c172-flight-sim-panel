@@ -1,0 +1,9 @@
+# Local development overrides
+
+url: http://localhost:4000
+
+analytics:
+  provider: false
+
+sass:
+  style: expanded

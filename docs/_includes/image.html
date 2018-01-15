@@ -1,0 +1,10 @@
+{% assign file_rel = page.url | split:"/" | last | append: "/" | append: include.file %}
+{% assign file_abs = 'http://localhost:4000/assets/images/' | append: file_rel %}
+<figure>
+    <a href="{{file_abs}}" title="{{include.title}}">
+        <img src="{{file_abs}}" alt="{{include.title}}" />
+    </a>
+    {% if include.caption %}
+    <figcaption>{{include.caption}}</figcaption>
+    {% endif %}
+</figure>

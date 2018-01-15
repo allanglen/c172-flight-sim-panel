@@ -1,0 +1,18 @@
+{% assign component = page.url | split:"/" | last %}
+<table>
+    <thead><tr><th>Component</th><th>Quantity</th><th>Source</th></tr></thead>
+    <tbody>
+    {% for part in site.data.parts[component] %}
+    <tr>
+        <td>{{part.component}}</td>
+        <td>{{part.quantity}}</td>
+        <td>
+            {% if part.source %}
+              <small>({{part.source}})</small>
+            {% endif %}
+            <a href="{{part.link}}">{{part.part}}</a>
+        </td>
+    </tr>
+    {% endfor %}
+    </tbody>
+</table>

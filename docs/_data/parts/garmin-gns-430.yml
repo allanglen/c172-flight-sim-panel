@@ -1,0 +1,40 @@
+- component: 'Faceplate, hardware mount, mounting brackets'
+  part: '3/16” bright white cast acrylic'
+  quantity: 441x69 mm
+  link: http://ebay.to/2Bn1CMs
+  source: Ebay
+
+- component: '4-inch Display'
+  part: 'Waveshare 4inch HDMI LCD Resistive Touch Screen 800x480'
+  quantity: 1
+  link: https://www.amazon.com/Waveshare-4inch-HDMI-LCD-Resolution/dp/B01M07K5QQ
+  source: Amazon
+
+- component: 'Knobs'
+  part: '8mm Dual Rotary Encoder Switch w/Knobs & Mounting PCB'
+  quantity: 2
+  link: http://www.desktopaviator.com/Products/parts.htm
+  source: Desktop Aviator
+
+- component: 'Push Buttons'
+  part: '7mmx7mm Momentary DPDT Mini Push Button Switch'
+  quantity: 13
+  link: https://www.amazon.com/gp/product/B00OK476IG
+  source: Amazon
+
+- component: 'Power/volume'
+  part: '20K Ohm Dual Linear Taper Potentiometer Switch'
+  quantity: 2
+  link: https://www.amazon.com/gp/product/B0177VGQGQ
+  source: Amazon
+
+- component: 'Screws (for attaching hardware mount to the faceplate)'
+  part: '#6-32 x 1/2” Phillips Pan Head Screws'
+  quantity: 4
+  link: https://www.amazon.com/gp/product/B00F34X6JK
+  source: Amazon
+
+- component: 'Screws (for attaching frame mounts to mounting brackets)'
+  part: '#4 x 1/2” Flat Head Wood Screws'
+  quantity: 4
+  link:
