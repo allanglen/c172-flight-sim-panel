@@ -1,9 +1,19 @@
 version: "2"
 services:
 
-  # Runs the Jekyll development server for previewing docs locally
+  # Run the Jekyll development server for previewing docs locally
+  #
+  # ```
   # docker-compose up docs
   # open http://localhost:4000
+  #
+  # ```
+  # Commands can be run in the container to update gems, build static Jekyll output etc.
+  #
+  # ```
+  # docker-compose run docs bundle update
+  # docker-compose run docs jekyll build
+  # ```
   docs:
     image: jekyll/jekyll:latest
     working_dir: /srv/jekyll/docs
