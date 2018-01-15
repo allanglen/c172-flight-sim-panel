@@ -2,6 +2,10 @@
 
 url: http://localhost:4000
 
+# don't use the remote theme for local development
+remote_theme: false
+theme: minimal-mistakes-jekyll
+
 analytics:
   provider: false
 
