@@ -70,3 +70,9 @@ include:
 author:
   name             : *name
   github           : "allanglen"
+
+# Analytics
+analytics:
+  provider: "google-universal"
+  google:
+    tracking_id: "UA-10973493-3"
