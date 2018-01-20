@@ -7,7 +7,7 @@
 - component: 'Screws (for attaching panel)'
   part: '#8 x 3/4” Phillips Truss Head Screws'
   quantity: 4
-  link: https://www.amazon.com/gp/product/B0002ZPF12
+  link: http://amzn.to/2DSJGuD
   source: Amazon
 
 - component: 'Alternator/Battery Master Switch'
@@ -31,5 +31,5 @@
 - component: 'Fuses'
   part: '6 Pin DPDT self-locking micro push button switches'
   quantity: 1
-  link: https://www.amazon.com/gp/product/B01KJHR3W6
+  link: http://amzn.to/2DlGOW6
   source: Amazon

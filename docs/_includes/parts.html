@@ -10,7 +10,11 @@
             {% if part.source %}
               <small>({{part.source}})</small>
             {% endif %}
+            {% if part.link %}
             <a href="{{part.link}}">{{part.part}}</a>
+            {% else %}
+            {{part.part}}
+            {% endif %}
         </td>
     </tr>
     {% endfor %}

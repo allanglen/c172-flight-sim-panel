@@ -7,13 +7,13 @@
 - component: 'Screws (for attaching panel for frame)'
   part: '#8 x 3/4” Phillips Truss Head Screws'
   quantity: 6
-  link: https://www.amazon.com/gp/product/B0002ZPF12
+  link: http://amzn.to/2DtpIZF
   source: Amazon
 
 - component: 'Rheostats'
   part: 'Dual-concentric linear potentiometer'
   quantity: 2
-  link: https://www.amazon.com/gp/product/B003AYM88A
+  link: http://amzn.to/2DWSiR3
   source: Amazon
 
 - component: 'Throttle Control'

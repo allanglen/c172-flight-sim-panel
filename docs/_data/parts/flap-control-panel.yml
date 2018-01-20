@@ -7,41 +7,41 @@
 - component: 'Screws (for attaching panel to frame)'
   part: '#8 x 3/4” Phillips Truss Head Screws'
   quantity: 4
-  link: https://www.amazon.com/gp/product/B0002ZPF12
+  link: http://amzn.to/2Bgyxkg
   source: Amazon
 
 - component: 'Screws (for attaching frame mounting bracket)'
   part: 'M3 x 8mm Hex Socket Head Self-Tapping Screws'
   quantity: 6
-  link: https://www.amazon.com/gp/product/B0116TIDJS
+  link: http://amzn.to/2BijgiR
   source: Amazon
 
 - component: 'Flap assembly frame spacers'
   part: 'M3 25mm female nylon spacers'
   quantity: 2
-  link: https://www.amazon.com/gp/product/B00LGB2N1Q
+  link: http://amzn.to/2DkIizD
   source: Amazon
 
 - component: 'Flap assembly Screws (for attaching flap control face plate)'
   part: '#6-32 x 1/2” Philips Pan Head Screws'
   quantity: 4
-  link: https://www.amazon.com/gp/product/B00F34X6JK
+  link: http://amzn.to/2Dodn5P
   source: Amazon
 
 - component: 'Tension spring for flap lever mount'
   part: '7/32” x 11/16” Comp Spring'
   quantity: 1
-  link: https://www.amazon.com/gp/product/B000M61J9I
+  link: http://amzn.to/2DzvSaD
   source: Amazon
 
 - component: 'Potentiometer shaft spring for flap lever'
   part: '3/8” x 5/8” Comp Spring'
   quantity: 1
-  link: https://www.amazon.com/gp/product/B000M61J9I
+  link: http://amzn.to/2DrOwSn
   source: Amazon
 
 - component: 'Flap position indicator servo'
   part: 'SG90 Micro Servo'
   quantity: 1
-  link: https://www.amazon.com/gp/product/B015H5AVZG
+  link: http://amzn.to/2DUNbRl
   source: Amazon
