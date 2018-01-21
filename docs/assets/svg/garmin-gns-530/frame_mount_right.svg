@@ -1,0 +1,83 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<svg
+   xmlns:dc="http://purl.org/dc/elements/1.1/"
+   xmlns:cc="http://creativecommons.org/ns#"
+   xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+   xmlns:svg="http://www.w3.org/2000/svg"
+   xmlns="http://www.w3.org/2000/svg"
+   xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
+   xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
+   width="60.0mm"
+   height="120.0mm"
+   viewBox="78.000000 -60.000000 60.000000 120.000000"
+   version="1.1"
+   id="svg14"
+   sodipodi:docname="frame_mount_bracket_right.svg"
+   inkscape:version="0.92.2 (5c3e80d, 2017-08-06)">
+  <metadata
+     id="metadata20">
+    <rdf:RDF>
+      <cc:Work
+         rdf:about="">
+        <dc:format>image/svg+xml</dc:format>
+        <dc:type
+           rdf:resource="http://purl.org/dc/dcmitype/StillImage" />
+      </cc:Work>
+    </rdf:RDF>
+  </metadata>
+  <defs
+     id="defs18" />
+  <sodipodi:namedview
+     pagecolor="#ffffff"
+     bordercolor="#666666"
+     borderopacity="1"
+     objecttolerance="10"
+     gridtolerance="10"
+     guidetolerance="10"
+     inkscape:pageopacity="0"
+     inkscape:pageshadow="2"
+     inkscape:window-width="1445"
+     inkscape:window-height="1151"
+     id="namedview16"
+     showgrid="false"
+     inkscape:zoom="0.52034722"
+     inkscape:cx="113.38583"
+     inkscape:cy="226.77165"
+     inkscape:window-x="0"
+     inkscape:window-y="0"
+     inkscape:window-maximized="0"
+     inkscape:current-layer="svg14" />
+  <path
+     inkscape:connector-curvature="0"
+     style="fill:none;fill-rule:evenodd;stroke:#ff0000;stroke-width:0.1;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
+     d="m 98,-41.5 h 38.5 A 1.5,1.5 0 0 0 138,-43 V -58.5 A 1.5,1.5 0 0 0 136.5,-60 H 78 V 60 h 58.5 A 1.5,1.5 0 0 0 138,58.5 V 43 a 1.5,1.5 0 0 0 -1.5,-1.5 H 98 a 1.5,1.5 0 1 1 0,-3 h 38.5 A 1.5,1.5 0 0 0 138,37 V -37.000014 A 1.5,1.5 0 0 0 136.5,-38.5 H 98 a 1.5,1.5 0 1 1 0,-3"
+     id="Clone2D001_w0000" />
+  <circle
+     id="circle3"
+     style="fill:none;stroke:#ff0000;stroke-width:0.1;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
+     r="1.5"
+     cy="-27"
+     cx="96"
+     transform="scale(1,-1)" />
+  <circle
+     id="circle5"
+     style="fill:none;stroke:#ff0000;stroke-width:0.1;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
+     r="1.5"
+     cy="53"
+     cx="96"
+     transform="scale(1,-1)" />
+  <circle
+     id="circle7"
+     style="fill:none;stroke:#ff0000;stroke-width:0.1;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
+     r="1.5"
+     cy="10.5"
+     cx="108"
+     transform="scale(1,-1)" />
+  <circle
+     id="circle9"
+     style="fill:none;stroke:#ff0000;stroke-width:0.1;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
+     r="1.5"
+     cy="10.5"
+     cx="128"
+     transform="scale(1,-1)" />
+</svg>

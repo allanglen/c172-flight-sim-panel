@@ -10,7 +10,9 @@ This GPS is specifically designed for use with X-Plane 11.10 (or greater) and us
 
 {% include image.html file="garmin_gns_430.jpg" %}
 
-{% include image.html file="garmin_gns_430_off.jpg" %}
+{% include image.html file="garmin_gns_430_face.jpg" %}
+
+{% include image.html file="garmin_gns_430_mounted.jpg" %}
 
 ## Parts List
 
@@ -34,6 +36,8 @@ The hardware mount provides a layer for mounting the push-buttons and the displa
 
 The frame mounts are used to attach the assembly to the [frame](/docs/frame).
 
+{% include image.html file="frame_mount.jpg" %}
+
 {% include svg.html file="frame_mount_left.svg" %}
 
 {% include svg.html file="frame_mount_right.svg" %}
@@ -53,6 +57,8 @@ The display mounting clips secure the display to the hardware mount and to the f
 
 {% include stl.html file="display_clip.stl" thing=2723972 
    image="https://cdn.thingiverse.com/renders/c9/98/23/45/53/2f104f44852b66ed3ddcea2a0592f77d_preview_featured.jpg" %}
+
+{% include image.html file="display_rear.jpg" %}
 
 ### Display Bezel
 

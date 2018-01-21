@@ -1,0 +1,160 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<!-- Created with Inkscape (http://www.inkscape.org/) -->
+
+<svg
+   xmlns:dc="http://purl.org/dc/elements/1.1/"
+   xmlns:cc="http://creativecommons.org/ns#"
+   xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+   xmlns:svg="http://www.w3.org/2000/svg"
+   xmlns="http://www.w3.org/2000/svg"
+   xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
+   xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
+   width="10.2mm"
+   height="10.2mm"
+   viewBox="0 0 10.2 10.2"
+   version="1.1"
+   id="svg6846"
+   inkscape:version="0.92.2 (5c3e80d, 2017-08-06)"
+   sodipodi:docname="knob_volume_engrave.svg">
+  <defs
+     id="defs6840" />
+  <sodipodi:namedview
+     id="base"
+     pagecolor="#ffffff"
+     bordercolor="#666666"
+     borderopacity="1.0"
+     inkscape:pageopacity="0.0"
+     inkscape:pageshadow="2"
+     inkscape:zoom="1.3412607"
+     inkscape:cx="-9.9284669"
+     inkscape:cy="-12.115168"
+     inkscape:document-units="mm"
+     inkscape:current-layer="layer1"
+     showgrid="false"
+     showguides="true"
+     inkscape:guide-bbox="true"
+     inkscape:snap-center="true"
+     inkscape:snap-object-midpoints="true"
+     inkscape:window-width="3440"
+     inkscape:window-height="1377"
+     inkscape:window-x="-8"
+     inkscape:window-y="-8"
+     inkscape:window-maximized="1">
+    <sodipodi:guide
+       position="3.3999999,3.3999999"
+       orientation="1,0"
+       id="guide7511"
+       inkscape:locked="false"
+       inkscape:label=""
+       inkscape:color="rgb(0,0,255)" />
+  </sodipodi:namedview>
+  <metadata
+     id="metadata6843">
+    <rdf:RDF>
+      <cc:Work
+         rdf:about="">
+        <dc:format>image/svg+xml</dc:format>
+        <dc:type
+           rdf:resource="http://purl.org/dc/dcmitype/StillImage" />
+        <dc:title />
+      </cc:Work>
+    </rdf:RDF>
+  </metadata>
+  <g
+     inkscape:label="reference"
+     inkscape:groupmode="layer"
+     id="layer1"
+     transform="translate(0,-286.8)"
+     style="display:inline;opacity:0.51000001" />
+  <g
+     inkscape:groupmode="layer"
+     id="layer9"
+     inkscape:label="dot">
+    <circle
+       style="color:#000000;clip-rule:nonzero;display:inline;overflow:visible;visibility:visible;opacity:1;isolation:auto;mix-blend-mode:normal;color-interpolation:sRGB;color-interpolation-filters:linearRGB;solid-color:#000000;solid-opacity:1;vector-effect:none;fill:#000000;fill-opacity:1;fill-rule:nonzero;stroke:none;stroke-width:0.13604033;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1;color-rendering:auto;image-rendering:auto;shape-rendering:auto;text-rendering:auto;enable-background:accumulate"
+       id="path7478"
+       cx="3.3999999"
+       cy="6.8000002"
+       r="0.55000001" />
+  </g>
+  <g
+     inkscape:groupmode="layer"
+     id="layer7"
+     inkscape:label="outline"
+     transform="translate(0,5.05)"
+     style="display:inline"
+     sodipodi:insensitive="true">
+    <circle
+       style="color:#000000;clip-rule:nonzero;display:inline;overflow:visible;visibility:visible;opacity:1;isolation:auto;mix-blend-mode:normal;color-interpolation:sRGB;color-interpolation-filters:linearRGB;solid-color:#000000;solid-opacity:1;vector-effect:none;fill:none;fill-opacity:1;fill-rule:nonzero;stroke:#ff0000;stroke-width:0.1485038;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1;color-rendering:auto;image-rendering:auto;shape-rendering:auto;text-rendering:auto;enable-background:accumulate"
+       id="path7403"
+       cx="5.0999999"
+       cy="0.049999904"
+       r="3.4257481" />
+  </g>
+  <g
+     inkscape:groupmode="layer"
+     id="layer8"
+     inkscape:label="C"
+     style="display:none">
+    <text
+       xml:space="preserve"
+       style="font-style:normal;font-variant:normal;font-weight:500;font-stretch:normal;font-size:3.61740065px;line-height:125%;font-family:'HeldustryFTVBasic Black';-inkscape-font-specification:'HeldustryFTVBasic Black, Medium';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-feature-settings:normal;text-align:start;letter-spacing:0px;word-spacing:0px;writing-mode:lr-tb;text-anchor:start;display:inline;opacity:1;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.39319572px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+       x="3.7738292"
+       y="6.3798261"
+       id="text36-2-7-5-0-1-3-7"><tspan
+         sodipodi:role="line"
+         x="3.7738292"
+         y="6.3798261"
+         style="font-style:normal;font-variant:normal;font-weight:500;font-stretch:normal;font-size:3.56497502px;font-family:'HeldustryFTVBasic Black';-inkscape-font-specification:'HeldustryFTVBasic Black, Medium';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-feature-settings:normal;text-align:start;letter-spacing:-0.19659786px;writing-mode:lr-tb;text-anchor:start;stroke-width:0.39319572px"
+         id="tspan4965-6-2-0">C</tspan></text>
+  </g>
+  <g
+     style="display:none"
+     inkscape:label="C (path)"
+     id="g7523"
+     inkscape:groupmode="layer">
+    <g
+       aria-label="C"
+       style="font-style:normal;font-variant:normal;font-weight:500;font-stretch:normal;font-size:3.61740065px;line-height:125%;font-family:'HeldustryFTVBasic Black';-inkscape-font-specification:'HeldustryFTVBasic Black, Medium';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-feature-settings:normal;text-align:start;letter-spacing:0px;word-spacing:0px;writing-mode:lr-tb;text-anchor:start;display:inline;opacity:1;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.39319572px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+       id="text7521">
+      <path
+         d="m 6.2657468,5.4386727 q -0.02139,0.1996386 -0.089124,0.3814523 -0.06417,0.1782487 -0.1925087,0.3137178 -0.1283391,0.135469 -0.3315426,0.2174635 -0.2032036,0.078429 -0.4955316,0.078429 -0.3351076,0 -0.570396,-0.089124 Q 4.3549202,6.247922 4.2087562,6.0768032 4.0661572,5.9021194 3.9984226,5.6490062 q -0.06417,-0.2531132 -0.06417,-0.577526 0,-0.2994579 0.071299,-0.5383112 0.0713,-0.2424183 0.2210284,-0.4099721 0.149729,-0.1711188 0.3778874,-0.2602432 0.2317234,-0.092689 0.5490062,-0.092689 0.3208477,0 0.5240513,0.081994 0.2032036,0.078429 0.3244127,0.2067685 0.1212092,0.1283391 0.1746838,0.292328 0.053475,0.1639888 0.074864,0.3279777 H 5.6775244 Q 5.6561344,4.5937739 5.6311794,4.515344 5.6062244,4.436915 5.5527504,4.379875 5.5028404,4.322835 5.4137163,4.290751 5.3281573,4.255101 5.181993,4.255101 q -0.1782488,0 -0.2994579,0.046345 -0.1212092,0.046345 -0.1960737,0.149729 -0.074864,0.1033843 -0.1069492,0.2745031 -0.032085,0.1675538 -0.032085,0.4135371 0,0.2495482 0.04278,0.4064071 0.046345,0.1532939 0.1247741,0.2424183 0.081995,0.085559 0.1960737,0.1176442 0.1176441,0.032085 0.2602431,0.032085 0.146164,0 0.2317234,-0.03565 0.085559,-0.03565 0.1354691,-0.099819 0.04991,-0.067735 0.078429,-0.1568589 0.02852,-0.092689 0.05704,-0.2067685 z"
+         style="font-style:normal;font-variant:normal;font-weight:500;font-stretch:normal;font-size:3.56497502px;font-family:'HeldustryFTVBasic Black';-inkscape-font-specification:'HeldustryFTVBasic Black, Medium';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-feature-settings:normal;text-align:start;letter-spacing:-0.19659786px;writing-mode:lr-tb;text-anchor:start;stroke-width:0.39319572px"
+         id="path7531"
+         inkscape:connector-curvature="0" />
+    </g>
+  </g>
+  <g
+     style="display:none"
+     inkscape:label="V"
+     id="g7517"
+     inkscape:groupmode="layer">
+    <text
+       id="text7515"
+       y="6.3798261"
+       x="3.9752502"
+       style="font-style:normal;font-variant:normal;font-weight:500;font-stretch:normal;font-size:3.61740065px;line-height:125%;font-family:'HeldustryFTVBasic Black';-inkscape-font-specification:'HeldustryFTVBasic Black, Medium';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-feature-settings:normal;text-align:start;letter-spacing:0px;word-spacing:0px;writing-mode:lr-tb;text-anchor:start;display:inline;opacity:1;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.39319572px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+       xml:space="preserve"><tspan
+         id="tspan7513"
+         style="font-style:normal;font-variant:normal;font-weight:500;font-stretch:normal;font-size:3.56497502px;font-family:'HeldustryFTVBasic Black';-inkscape-font-specification:'HeldustryFTVBasic Black, Medium';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-feature-settings:normal;text-align:start;letter-spacing:-0.19659786px;writing-mode:lr-tb;text-anchor:start;stroke-width:0.39319572px"
+         y="6.3798261"
+         x="3.9752502"
+         sodipodi:role="line">V</tspan></text>
+  </g>
+  <g
+     inkscape:groupmode="layer"
+     id="g7529"
+     inkscape:label="V (path)"
+     style="display:inline">
+    <g
+       aria-label="V"
+       style="font-style:normal;font-variant:normal;font-weight:500;font-stretch:normal;font-size:3.61740065px;line-height:125%;font-family:'HeldustryFTVBasic Black';-inkscape-font-specification:'HeldustryFTVBasic Black, Medium';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-feature-settings:normal;text-align:start;letter-spacing:0px;word-spacing:0px;writing-mode:lr-tb;text-anchor:start;display:inline;opacity:1;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.39319572px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+       id="text7527">
+      <path
+         d="M 6.2532693,3.820174 5.3620255,6.3798261 H 4.8023244 L 3.9467304,3.820174 H 4.5919909 L 5.0910874,5.5135371 5.6115738,3.820174 Z"
+         style="font-style:normal;font-variant:normal;font-weight:500;font-stretch:normal;font-size:3.56497502px;font-family:'HeldustryFTVBasic Black';-inkscape-font-specification:'HeldustryFTVBasic Black, Medium';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-feature-settings:normal;text-align:start;letter-spacing:-0.19659786px;writing-mode:lr-tb;text-anchor:start;stroke-width:0.39319572px"
+         id="path7534"
+         inkscape:connector-curvature="0" />
+    </g>
+  </g>
+</svg>

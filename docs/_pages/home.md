@@ -27,7 +27,7 @@ feature_row:
     alt: "avionics stack"
     title: "Avionics Stack"
     excerpt: >-
-      The avionics stack is very much a work in progress.<br/><br/>
+      The avionics stack is a work in progress.<br/><br/>
       I intend to build a complete avionics stack with an audio panel, GPS (GNS530 and GNS430), transponder, and auto-pilot.
     url: "/docs/avionics/"
     btn_class: "btn--primary"

@@ -5,9 +5,11 @@ permalink: /docs/avionics/
 
 # Avionics
 
-The avionics stack is very much a work in progress and I will post details here as I proceed.
+The avionics stack is a work in progress and I will post details here as I proceed.
 
-I intend to build a complete avionics stack for the X-Plane 11 Cessna 172 with an audio panel, Garmin GPS (GNS530 and GNS430), transponder, and auto-pilot.
+{% include image.html file="avionics_view.jpg" %}
+
+{% include image.html file="avionics.jpg" %}
 
 ## Garmin GMA 340
 
@@ -15,13 +17,19 @@ Work in progress.
 
 ## Garmin GNS 530
 
-Work in progress.
+For parts and construction details refer to [Garmin GNS 530](./garmin-gns-530/).
+
+{% include image.html file="../garmin-gns-530/garmin_gns_530_mounted.jpg" %}
 
 ## Garmin GNS 430
 
 For parts and construction details refer to [Garmin GNS 430](./garmin-gns-430/).
 
-{% include image.html file="../garmin-gns-430/garmin_gns_430_corner_view.jpg" %}
+{% include image.html file="../garmin-gns-430/garmin_gns_430_mounted.jpg" %}
+
+## Garmin GTX 327
+
+Work in progress.
 
 ## S-Tec Fifty-Five X
 
