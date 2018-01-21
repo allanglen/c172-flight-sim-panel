@@ -7,7 +7,6 @@
    xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
    xmlns:svg="http://www.w3.org/2000/svg"
    xmlns="http://www.w3.org/2000/svg"
-   xmlns:xlink="http://www.w3.org/1999/xlink"
    xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
    xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
    width="10.2mm"
@@ -26,9 +25,9 @@
      borderopacity="1.0"
      inkscape:pageopacity="0.0"
      inkscape:pageshadow="2"
-     inkscape:zoom="15.174633"
-     inkscape:cx="19.27559"
-     inkscape:cy="19.27559"
+     inkscape:zoom="1.3412607"
+     inkscape:cx="-9.9284669"
+     inkscape:cy="-12.115168"
      inkscape:document-units="mm"
      inkscape:current-layer="layer1"
      showgrid="false"
@@ -36,8 +35,8 @@
      inkscape:guide-bbox="true"
      inkscape:snap-center="true"
      inkscape:snap-object-midpoints="true"
-     inkscape:window-width="1280"
-     inkscape:window-height="737"
+     inkscape:window-width="3440"
+     inkscape:window-height="1377"
      inkscape:window-x="-8"
      inkscape:window-y="-8"
      inkscape:window-maximized="1">
@@ -66,17 +65,7 @@
      inkscape:groupmode="layer"
      id="layer1"
      transform="translate(0,-286.8)"
-     style="display:inline;opacity:0.51000001">
-    <image
-       sodipodi:absref="D:\Development\c172-sim-panel\components\avionics\garmin_gns_430\430.png"
-       xlink:href="430.png"
-       y="281.03607"
-       x="-8.9192019"
-       id="image7399"
-       preserveAspectRatio="none"
-       height="69"
-       width="165" />
-  </g>
+     style="display:inline;opacity:0.51000001" />
   <g
      inkscape:groupmode="layer"
      id="layer9"
@@ -120,7 +109,7 @@
          id="tspan4965-6-2-0">C</tspan></text>
   </g>
   <g
-     style="display:inline"
+     style="display:none"
      inkscape:label="C (path)"
      id="g7523"
      inkscape:groupmode="layer">
@@ -156,7 +145,7 @@
      inkscape:groupmode="layer"
      id="g7529"
      inkscape:label="V (path)"
-     style="display:none">
+     style="display:inline">
     <g
        aria-label="V"
        style="font-style:normal;font-variant:normal;font-weight:500;font-stretch:normal;font-size:3.61740065px;line-height:125%;font-family:'HeldustryFTVBasic Black';-inkscape-font-specification:'HeldustryFTVBasic Black, Medium';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-feature-settings:normal;text-align:start;letter-spacing:0px;word-spacing:0px;writing-mode:lr-tb;text-anchor:start;display:inline;opacity:1;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.39319572px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
