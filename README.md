@@ -6,7 +6,7 @@
 
 This repository contains design files, 3d models, wiring diagrams, and code artifacts for building a Cessna 172 Skyhawk flight simulator panel.
 
-For details visit the project site at http://cessna172sim.allanglen.com
+For details visit the project site at https://cessna172sim.allanglen.com
 
 ![latest](docs/assets/images/docs/status.jpg)
 
