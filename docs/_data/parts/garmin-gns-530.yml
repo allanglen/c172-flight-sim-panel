@@ -1,6 +1,6 @@
 - component: 'Faceplate, hardware mount, mounting brackets'
   part: '3/16” bright white cast acrylic'
-  quantity: 441x69 mm
+  quantity: 441x120 mm
   link: http://ebay.to/2Bn1CMs
   source: Ebay
 
@@ -30,7 +30,7 @@
 
 - component: 'Screws (for attaching hardware mount to the faceplate)'
   part: '#6-32 x 1/2” Phillips Pan Head Screws'
-  quantity: 3
+  quantity: 4
   link: http://amzn.to/2DjRSTv
   source: Amazon
 
