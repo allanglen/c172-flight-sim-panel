@@ -4,7 +4,7 @@
     <tbody>
     {% for part in site.data.parts[component] %}
     <tr>
-        <td>{{part.component}}</td>
+        <td>{{part.component}}{% if part.notes %}<br><small>{{part.notes | markdownify}}</small>{% endif %}</td>
         <td>{{part.quantity}}</td>
         <td>
             {% if part.source %}
@@ -21,5 +21,5 @@
     </tbody>
 </table>
 
-<p class="notice--info "><strong>Note </strong> The Amazon and Ebay links above are <a href="/links">affiliate links</a> and help me pretend that my hobbies are self-sustaining. I only link to items that I have personally purchased and that are directly used in the projects that I publish.</p>
+<p class="notice--info "><strong>Note </strong> The Amazon and Ebay links above are <a href="/links">affiliate links</a> and help me pretend that my hobbies are self-sustaining. I only link to items that I have personally purchased and that are directly used my projects.</p>
 

@@ -1,32 +1,43 @@
-- component: 'Panel'
+- component: 'Instrument Panel'
   part: '1/4” birch plywood'
   quantity: 14” x 24”
 
+- component: 'Spray Paint'
+  notes: Used to paint the panel and the screw heads
+  part: Rustoleum 2X Satin Granite Spray Paint
+  link: https://www.homedepot.com/p/Rust-Oleum-Painter-s-Touch-2X-12-oz-Satin-Granite-General-Purpose-Spray-Paint-249078/100670399
+  source: Home Depot
+
 - component: 'Display'
+  notes: Mounted behind the panel and bezels
   part: 'Acer V233H 23 Inch LCD 1080P Widescreen Monitor'
   quantity: 1
   link: http://amzn.to/2DwAj5P
   source: Amazon
 
-- component: 'Screws (for attaching instruments)'
+- component: 'Pan Head Screws'
+  notes: For attaching the instruments to the panel
   part: '#6-32 x 1/4” Phillips Pan Head Screws'
   quantity: 55
   link: http://amzn.to/2DrpVgB
   source: Amazon
 
-- component: 'Screws (for attaching panel)'
+- component: 'Truss Head Screws'
+  notes: For attaching the panel to the frame
   part: '#8 x 3/4” Phillips Truss Head Screws'
   quantity: 12
   link: http://amzn.to/2DSJGuD
   source: Amazon
 
 - component: 'Encoders'
+  notes: These are the lowest profile encoders that I could find. The bezels are designed to fit these specific encoders.
   part: 'Low-profile rotary encoders, 6mm shaft'
   quantity: 9
   link: http://amzn.to/2DlQ0JS
   source: Amazon
 
-- component: 'Buttons (for clock)'
+- component: 'Buttons'
+  notes: Mounted into the 3d printed bezel for the clock
   part: 'Tactile push buttons (6x6x4.3mm)'
   quantity: 3
   link: http://amzn.to/2Dv42w6

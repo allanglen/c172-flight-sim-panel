@@ -5,7 +5,7 @@ header:
   overlay_color: "#5e616c"
   overlay_image: /assets/images/hero.jpg
   overlay_filter: 0.2
-  cta_label: "<i class='fas fa-book'></i> Documentation"
+  cta_label: "<i class='fas fa-book'></i> Details"
   cta_url: "/docs/"
 excerpt: >-
   Design files, 3d models, wiring diagrams, and code artifacts for building a Cessna 172 Skyhawk flight simulator panel.<br /><br />

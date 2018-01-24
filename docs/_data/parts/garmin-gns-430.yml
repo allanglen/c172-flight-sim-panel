@@ -5,35 +5,41 @@
   source: Ebay
 
 - component: '4-inch Display'
+  notes: This is a 16:10 (wide) aspect ratio display that is very close to the aspect ratio and size of the display in a genuine 430. The touch screen feature isn't used.
   part: 'Waveshare 4inch HDMI LCD Resistive Touch Screen 800x480'
   quantity: 1
   link: http://amzn.to/2G0bLk2
   source: Amazon
 
-- component: 'Knobs'
+- component: 'Primary knobs'
+  notes: 'Dual-rotary encoders are difficult to find. These work perfectly and have a solid feel. The [3d printed knobs](#dual-rotary-knobs) below are designed for these encoders.'
   part: '8mm Dual Rotary Encoder Switch w/Knobs & Mounting PCB'
   quantity: 2
   link: http://www.desktopaviator.com/Products/parts.htm
   source: Desktop Aviator
 
-- component: 'Push Buttons'
+- component: 'Push buttons'
+  notes: These are a soft-feel push button with about 2mm of travel.
   part: '7mmx7mm Momentary DPDT Mini Push Button Switch'
-  quantity: 13
+  quantity: 14
   link: http://amzn.to/2DjRTa1
   source: Amazon
 
-- component: 'Power/volume'
+- component: 'Power/volume potentiometers'
+  notes: 'With on/off and volume control. The [3d printed volume knobs](#volume-knobs) below are designed for these.'
   part: '20K Ohm Dual Linear Taper Potentiometer Switch'
   quantity: 2
   link: http://amzn.to/2EZv8IS
   source: Amazon
 
-- component: 'Screws (for attaching hardware mount to the faceplate)'
+- component: 'Pan head screws'
+  notes: Used for attaching the hardware mount to the rear of the faceplate.
   part: '#6-32 x 1/2” Phillips Pan Head Screws'
   quantity: 4
   link: http://amzn.to/2DjRSTv
   source: Amazon
 
-- component: 'Screws (for attaching frame mounts to mounting brackets)'
+- component: 'Flat head screws'
+  notes: For assembling the acrylic parts (holes should be countersunk before assembly).
   part: '#4 x 1/2” Flat Head Wood Screws'
-  quantity: 4
+  quantity: 12
