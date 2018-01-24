@@ -44,7 +44,7 @@ The frame mounts are used to attach the assembly to the [frame](/docs/frame).
 
 The frame mounts are attached to the hardware mount with these brackets and \#4 x 1/2" flat head screws.
 
-{% include stl.html file="display_clip.stl" thing=2764205 
+{% include stl.html file="display_mounting_clips.stl" thing=2764205 
    image="https://cdn.thingiverse.com/renders/c6/3f/43/48/b0/d1ef4514cb0441461229379ad1ca340c_preview_featured.jpg" %}
    
 The frame mounts also secure the display to the hardware mount and to the faceplate. A shallow 1/8" hole is drilled into the rear of the faceplate. The clips are designed to work with \#6-32 x 1/2 pan head screws.
@@ -61,7 +61,7 @@ The electronics mount is used to attach the display electronics (HDMI controller
 
 Two 3d printed blocks are used for attaching the acrylic electronics mount to the frame mount brackets. The parts are attached with \#4 x 1/2" flat head screws.
 
-{% include stl.html file="display_clip.stl" thing=2764205 
+{% include stl.html file="display_electronics_mount_block.stl" thing=2764205 
    image="https://cdn.thingiverse.com/renders/3b/c3/ea/1a/80/05e5d92b41b487360761c2e1b10e862a_preview_featured.jpg" %}
 
 {% include image.html file="electronics_mount.jpg" %}
