@@ -1,47 +1,47 @@
 - component: 'Panel'
   part: '3/16” bright white cast acrylic'
   quantity: 282x89mm
-  link: http://ebay.to/2Bn1CMs
+  link: https://rover.ebay.com/rover/1/711-53200-19255-0/1?icep_id=114&ipn=icep&toolid=20004&campid=5338231642&mpre=https%3A%2F%2Fwww.ebay.com%2Fitm%2F3-16-7328-Translucent-Bright-White-Cell-Cast-Acrylic-Sheet-12-x-24%2F291827088484
   source: Ebay
 
 - component: 'Screws (for attaching panel to frame)'
   part: '#8 x 3/4” Phillips Truss Head Screws'
   quantity: 4
-  link: http://amzn.to/2Bgyxkg
+  link: https://amzn.to/2Bgyxkg
   source: Amazon
 
 - component: 'Screws (for attaching frame mounting bracket)'
   part: 'M3 x 8mm Hex Socket Head Self-Tapping Screws'
   quantity: 6
-  link: http://amzn.to/2BijgiR
+  link: https://amzn.to/2BijgiR
   source: Amazon
 
 - component: 'Flap assembly frame spacers'
   part: 'M3 25mm female nylon spacers'
   quantity: 2
-  link: http://amzn.to/2DkIizD
+  link: https://amzn.to/2DkIizD
   source: Amazon
 
 - component: 'Flap assembly Screws (for attaching flap control face plate)'
   part: '#6-32 x 1/2” Philips Pan Head Screws'
   quantity: 4
-  link: http://amzn.to/2Dodn5P
+  link: https://amzn.to/2Dodn5P
   source: Amazon
 
 - component: 'Tension spring for flap lever mount'
   part: '7/32” x 11/16” Comp Spring'
   quantity: 1
-  link: http://amzn.to/2DzvSaD
+  link: https://amzn.to/2DzvSaD
   source: Amazon
 
 - component: 'Potentiometer shaft spring for flap lever'
   part: '3/8” x 5/8” Comp Spring'
   quantity: 1
-  link: http://amzn.to/2DrOwSn
+  link: https://amzn.to/2DrOwSn
   source: Amazon
 
 - component: 'Flap position indicator servo'
   part: 'SG90 Micro Servo'
   quantity: 1
-  link: http://amzn.to/2DUNbRl
+  link: https://amzn.to/2DUNbRl
   source: Amazon

@@ -1,35 +1,35 @@
 - component: 'Panel'
   part: '3/16” bright white cast acrylic'
   quantity: 260x89mm
-  link: http://ebay.to/2Bn1CMs
+  link: https://rover.ebay.com/rover/1/711-53200-19255-0/1?icep_id=114&ipn=icep&toolid=20004&campid=5338231642&mpre=https%3A%2F%2Fwww.ebay.com%2Fitm%2F3-16-7328-Translucent-Bright-White-Cell-Cast-Acrylic-Sheet-12-x-24%2F291827088484
   source: Ebay
 
 - component: 'Screws (for attaching panel)'
   part: '#8 x 3/4” Phillips Truss Head Screws'
   quantity: 4
-  link: http://amzn.to/2DSJGuD
+  link: https://amzn.to/2DSJGuD
   source: Amazon
 
 - component: 'Alternator/Battery Master Switch'
   part: 'Dual rocker switch'
   quantity: 1
-  link: http://www.desktopaviator.com/Products/parts.htm
+  link: https://www.desktopaviator.com/Products/parts.htm
   source: Desktop Aviator
 
 - component: 'Fuel Pump, Lights, Pitot Heat'
   part: 'SPDT Toggle Switch'
   quantity: 7
-  link: http://www.desktopaviator.com/Products/parts.htm
+  link: https://www.desktopaviator.com/Products/parts.htm
   source: Desktop Aviator
 
 - component: 'Avionics Master Switch'
   part: 'On/Off Rocker Switch'
   quantity: 1
-  link: http://www.desktopaviator.com/Products/parts.htm
+  link: https://www.desktopaviator.com/Products/parts.htm
   source: Desktop Aviator
 
 - component: 'Fuses'
   part: '6 Pin DPDT self-locking micro push button switches'
   quantity: 1
-  link: http://amzn.to/2DlGOW6
+  link: https://amzn.to/2DlGOW6
   source: Amazon

@@ -1,19 +1,19 @@
 - component: 'Panel'
   part: '3/16” bright white cast acrylic'
   quantity: 310x104mm
-  link: http://ebay.to/2Bn1CMs
+  link: https://rover.ebay.com/rover/1/711-53200-19255-0/1?icep_id=114&ipn=icep&toolid=20004&campid=5338231642&mpre=https%3A%2F%2Fwww.ebay.com%2Fitm%2F3-16-7328-Translucent-Bright-White-Cell-Cast-Acrylic-Sheet-12-x-24%2F291827088484
   source: Ebay
 
 - component: 'Screws (for attaching panel for frame)'
   part: '#8 x 3/4” Phillips Truss Head Screws'
   quantity: 6
-  link: http://amzn.to/2DtpIZF
+  link: https://amzn.to/2DtpIZF
   source: Amazon
 
 - component: 'Rheostats'
   part: 'Dual-concentric linear potentiometer'
   quantity: 2
-  link: http://amzn.to/2DWSiR3
+  link: https://amzn.to/2DWSiR3
   source: Amazon
 
 - component: 'Throttle Control'
@@ -31,5 +31,5 @@
 - component: 'Alt Static Air Switch'
   part: 'Chrome Push/Pull Switch'
   quantity: 1
-  link: http://www.desktopaviator.com/Products/parts.htm
+  link: https://www.desktopaviator.com/Products/parts.htm
   source: Desktop Aviator

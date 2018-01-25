@@ -12,39 +12,39 @@
   notes: Mounted behind the panel and bezels
   part: 'Acer V233H 23 Inch LCD 1080P Widescreen Monitor'
   quantity: 1
-  link: http://amzn.to/2DwAj5P
+  link: https://amzn.to/2DwAj5P
   source: Amazon
 
 - component: 'Pan Head Screws'
   notes: For attaching the instruments to the panel
   part: '#6-32 x 1/4” Phillips Pan Head Screws'
   quantity: 55
-  link: http://amzn.to/2DrpVgB
+  link: https://amzn.to/2DrpVgB
   source: Amazon
 
 - component: 'Truss Head Screws'
   notes: For attaching the panel to the frame
   part: '#8 x 3/4” Phillips Truss Head Screws'
   quantity: 12
-  link: http://amzn.to/2DSJGuD
+  link: https://amzn.to/2DSJGuD
   source: Amazon
 
 - component: 'Encoders'
   notes: These are the lowest profile encoders that I could find. The bezels are designed to fit these specific encoders.
   part: 'Low-profile rotary encoders, 6mm shaft'
   quantity: 9
-  link: http://amzn.to/2DlQ0JS
+  link: https://amzn.to/2DlQ0JS
   source: Amazon
 
 - component: 'Buttons'
   notes: Mounted into the 3d printed bezel for the clock
   part: 'Tactile push buttons (6x6x4.3mm)'
   quantity: 3
-  link: http://amzn.to/2Dv42w6
+  link: https://amzn.to/2Dv42w6
   source: Amazon
 
 - component: 'Annunciator switch'
   part: '3 position 2P3T Micro Right Angle Slide Switch'
   quantity: 1
-  link: http://amzn.to/2Bi1vQB
+  link: https://amzn.to/2Bi1vQB
   source: Amazon
