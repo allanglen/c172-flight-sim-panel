@@ -7,7 +7,7 @@
 - component: 'Screws (for attaching panel for frame)'
   part: '#8 x 3/4” Phillips Truss Head Screws'
   quantity: 6
-  link: https://amzn.to/2DtpIZF
+  link: https://www.amazon.com/gp/product/B0002ZPF12/ref=as_li_ss_tl?ie=UTF8&linkCode=ll1&tag=c172-20&linkId=d80d470aa32c40d2996b33e895953987
   source: Amazon
 
 - component: 'Rheostats'

@@ -12,39 +12,39 @@
   notes: Mounted behind the panel and bezels
   part: 'Acer V233H 23 Inch LCD 1080P Widescreen Monitor'
   quantity: 1
-  link: https://amzn.to/2DwAj5P
+  link: https://www.amazon.com/V233H-Acer-1080P-Widescreen-Monitor/dp/B00GX3TWNO/ref=as_li_ss_tl?ie=UTF8&linkCode=ll1&tag=c172-20&linkId=4ba5eacbd215998aad13ed4993cb80d0
   source: Amazon
 
 - component: 'Pan Head Screws'
   notes: For attaching the instruments to the panel
   part: '#6-32 x 1/4” Phillips Pan Head Screws'
   quantity: 55
-  link: https://amzn.to/2DrpVgB
+  link: https://www.amazon.com/gp/product/B00F3599ZE/ref=as_li_ss_tl?ie=UTF8&linkCode=ll1&tag=c172-20&linkId=bb0590655b9e9b5f9bd771eaf4b0fef5
   source: Amazon
 
 - component: 'Truss Head Screws'
   notes: For attaching the panel to the frame
   part: '#8 x 3/4” Phillips Truss Head Screws'
   quantity: 12
-  link: https://amzn.to/2DSJGuD
+  link: https://www.amazon.com/gp/product/B0002ZPF12/ref=as_li_ss_tl?ie=UTF8&linkCode=ll1&tag=c172-20&linkId=f2c2a441c6e2b3f8726b0c58bea555c0
   source: Amazon
 
 - component: 'Encoders'
   notes: These are the lowest profile encoders that I could find. The bezels are designed to fit these specific encoders.
   part: 'Low-profile rotary encoders, 6mm shaft'
   quantity: 9
-  link: https://amzn.to/2DlQ0JS
+  link: https://www.amazon.com/gp/product/B0177VGSQY/ref=as_li_ss_tl?ie=UTF8&linkCode=ll1&tag=c172-20&linkId=03f0f9478f6bea0a155c3cd2d17b9c7a
   source: Amazon
 
 - component: 'Buttons'
   notes: Mounted into the 3d printed bezel for the clock
   part: 'Tactile push buttons (6x6x4.3mm)'
   quantity: 3
-  link: https://amzn.to/2Dv42w6
+  link: https://www.amazon.com/gp/product/B071KX71SV/ref=as_li_ss_tl?ie=UTF8&linkCode=ll1&tag=c172-20&linkId=4bb376f6779790def45aa3295b7c2885
   source: Amazon
 
 - component: 'Annunciator switch'
   part: '3 position 2P3T Micro Right Angle Slide Switch'
   quantity: 1
-  link: https://amzn.to/2Bi1vQB
+  link: https://www.amazon.com/gp/product/B01480QKHY/ref=as_li_ss_tl?ie=UTF8&linkCode=ll1&tag=c172-20&linkId=6a4aab28c985029ed4efbe7d859eff01
   source: Amazon

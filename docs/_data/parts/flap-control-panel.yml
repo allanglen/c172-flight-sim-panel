@@ -7,41 +7,41 @@
 - component: 'Screws (for attaching panel to frame)'
   part: '#8 x 3/4” Phillips Truss Head Screws'
   quantity: 4
-  link: https://amzn.to/2Bgyxkg
+  link: https://www.amazon.com/gp/product/B0002ZPF12/ref=as_li_ss_tl?ie=UTF8&linkCode=ll1&tag=c172-20&linkId=3a622124bb9a5f01febfef5b89745b2d
   source: Amazon
 
 - component: 'Screws (for attaching frame mounting bracket)'
   part: 'M3 x 8mm Hex Socket Head Self-Tapping Screws'
   quantity: 6
-  link: https://amzn.to/2BijgiR
+  link: https://www.amazon.com/gp/product/B0116TIDJS/ref=as_li_ss_tl?ie=UTF8&linkCode=ll1&tag=c172-20&linkId=cc490db699e139cdab7affb88ef61c56
   source: Amazon
 
 - component: 'Flap assembly frame spacers'
   part: 'M3 25mm female nylon spacers'
   quantity: 2
-  link: https://amzn.to/2DkIizD
+  link: https://www.amazon.com/gp/product/B00LGB2N1Q/ref=as_li_ss_tl?ie=UTF8&linkCode=ll1&tag=c172-20&linkId=a1472070bc9b490bae7900887f244653
   source: Amazon
 
 - component: 'Flap assembly Screws (for attaching flap control face plate)'
   part: '#6-32 x 1/2” Philips Pan Head Screws'
   quantity: 4
-  link: https://amzn.to/2Dodn5P
+  link: https://www.amazon.com/gp/product/B00F34X6JK/ref=as_li_ss_tl?ie=UTF8&linkCode=ll1&tag=c172-20&linkId=72dbb9f072fc06107f092a3260c6faab
   source: Amazon
 
 - component: 'Tension spring for flap lever mount'
   part: '7/32” x 11/16” Comp Spring'
   quantity: 1
-  link: https://amzn.to/2DzvSaD
+  link: https://www.amazon.com/gp/product/B000M61J9I/ref=as_li_ss_tl?ie=UTF8&linkCode=ll1&tag=c172-20&linkId=e0876b1345a96422c102b7f20f4d577e
   source: Amazon
 
 - component: 'Potentiometer shaft spring for flap lever'
   part: '3/8” x 5/8” Comp Spring'
   quantity: 1
-  link: https://amzn.to/2DrOwSn
+  link: https://www.amazon.com/gp/product/B000M61J9I/ref=as_li_ss_tl?ie=UTF8&linkCode=ll1&tag=c172-20&linkId=997b0fc979f73bf6dc089386b03cec4c
   source: Amazon
 
 - component: 'Flap position indicator servo'
   part: 'SG90 Micro Servo'
   quantity: 1
-  link: https://amzn.to/2DUNbRl
+  link: https://www.amazon.com/gp/product/B015H5AVZG/ref=as_li_ss_tl?ie=UTF8&linkCode=ll1&tag=c172-20&linkId=7026b7e25668b6bb8fb73501a785ac65
   source: Amazon

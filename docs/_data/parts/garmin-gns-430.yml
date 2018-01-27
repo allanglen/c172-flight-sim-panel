@@ -8,7 +8,7 @@
   notes: This is a 16:10 (wide) aspect ratio display that is very close to the aspect ratio and size of the display in a genuine 430. The touch screen feature isn't used.
   part: 'Waveshare 4inch HDMI LCD Resistive Touch Screen 800x480'
   quantity: 1
-  link: https://amzn.to/2G0bLk2
+  link: https://www.amazon.com/Waveshare-4inch-HDMI-LCD-Resolution/dp/B01M07K5QQ/ref=as_li_ss_tl?ie=UTF8&linkCode=ll1&tag=c172-20&linkId=6f6abbbca792dd73212dc2ebd47fbbac
   source: Amazon
 
 - component: 'Primary knobs'
@@ -22,21 +22,21 @@
   notes: These are a soft-feel push button with about 2mm of travel.
   part: '7mmx7mm Momentary DPDT Mini Push Button Switch'
   quantity: 14
-  link: https://amzn.to/2DjRTa1
+  link: https://www.amazon.com/gp/product/B00OK476IG/ref=as_li_ss_tl?ie=UTF8&linkCode=ll1&tag=c172-20&linkId=5fd3ae40e8fae5b1117cc293f6f73be1
   source: Amazon
 
 - component: 'Power/volume potentiometers'
   notes: 'With on/off and volume control. The [3d printed volume knobs](#volume-knobs) below are designed for these.'
   part: '20K Ohm Dual Linear Taper Potentiometer Switch'
   quantity: 2
-  link: https://amzn.to/2EZv8IS
+  link: https://www.amazon.com/gp/product/B0177VGQGQ/ref=as_li_ss_tl?ie=UTF8&linkCode=ll1&tag=c172-20&linkId=d1e9007a250b60e7b267df9e4ea1c0d5
   source: Amazon
 
 - component: 'Pan head screws'
   notes: Used for attaching the hardware mount to the rear of the faceplate.
   part: '#6-32 x 1/2” Phillips Pan Head Screws'
   quantity: 4
-  link: https://amzn.to/2DjRSTv
+  link: https://www.amazon.com/gp/product/B00F34X6JK/ref=as_li_ss_tl?ie=UTF8&linkCode=ll1&tag=c172-20&linkId=15ac88dce72fbefe18d7ecefaa0f6ee8
   source: Amazon
 
 - component: 'Flat head screws'

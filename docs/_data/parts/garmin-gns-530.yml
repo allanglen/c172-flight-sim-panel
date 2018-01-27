@@ -5,14 +5,14 @@
   source: Ebay
 
 - component: '5-inch display'
-  notes: I found it difficult to source a 5" display with a 4:3 aspect ratio and this one works perfectly. Very clear and easy to read.
+  notes: I found it difficult to source a 5" display with a 4:3 aspect ratio and this one works perfectly. It is slightly smaller than the actual GNS 530 display but it is very clear and easy to read.
   part: 'Innolux 5" ZJ050NA-08C 640x480 LCD w/HDMI controller board'
   quantity: 1
   link: https://rover.ebay.com/rover/1/711-53200-19255-0/1?icep_id=114&ipn=icep&toolid=20004&campid=5338231642&mpre=https%3A%2F%2Fwww.ebay.com%2Fitm%2FHDMI-LCD-Controller-Board-5inch-ZJ050NA-08C-Replace-AT050TN22-640x480-LCD%2F361450952062
   source: Ebay
 
 - component: 'Primary knobs'
-  notes: 'Dual-rotary encoders are difficult to find. These work perfectly and have a solid feel. The [3d printed knobs](#dual-rotary-knobs) below are designed for these encoders.'
+  notes: 'Dual-rotary encoders are difficult to find. These are a bit pricey but are high quality encoders. I created the [3d printed knobs](#dual-rotary-knobs) below specifically for these encoders.'
   part: '8mm Dual Rotary Encoder Switch w/Knobs & Mounting PCB'
   quantity: 2
   link: https://www.desktopaviator.com/Products/parts.htm
@@ -22,21 +22,21 @@
   notes: These are a soft-feel push button with about 2mm of travel.
   part: '7mmx7mm Momentary DPDT Mini Push Button Switch'
   quantity: 14
-  link: https://amzn.to/2DjRTa1
+  link: https://www.amazon.com/gp/product/B00OK476IG/ref=as_li_ss_tl?ie=UTF8&linkCode=ll1&tag=c172-20&linkId=5fd3ae40e8fae5b1117cc293f6f73be1
   source: Amazon
 
 - component: 'Power/volume potentiometers'
   notes: 'With on/off and volume control. The [3d printed volume knobs](#volume-knobs) below are designed for these.'
   part: '20K Ohm Dual Linear Taper Potentiometer Switch'
   quantity: 2
-  link: https://amzn.to/2EZv8IS
+  link: https://www.amazon.com/gp/product/B0177VGQGQ/ref=as_li_ss_tl?ie=UTF8&linkCode=ll1&tag=c172-20&linkId=d1e9007a250b60e7b267df9e4ea1c0d5
   source: Amazon
 
 - component: 'Pan head screws'
   notes: Used for attaching the hardware mount to the rear of the faceplate.
   part: '#6-32 x 1/2” Phillips Pan Head Screws'
   quantity: 4
-  link: https://amzn.to/2DjRSTv
+  link: https://www.amazon.com/gp/product/B00F34X6JK/ref=as_li_ss_tl?ie=UTF8&linkCode=ll1&tag=c172-20&linkId=15ac88dce72fbefe18d7ecefaa0f6ee8
   source: Amazon
 
 - component: 'Flat head screws'
