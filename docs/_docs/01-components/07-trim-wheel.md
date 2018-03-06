@@ -1,8 +1,8 @@
 ---
-title: Trim Wheel
+title: Motorized Trim Wheel
 permalink: /docs/trim-wheel/
 toc: false
 ---
-# Trim Wheel
+# Motorized Trim Wheel
 
 Work in progress

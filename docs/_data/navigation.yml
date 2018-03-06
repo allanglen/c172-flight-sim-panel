@@ -25,8 +25,10 @@ docs:
         url: /docs/throttle-mixture-panel/
       - title: "Flap Control Panel"
         url: /docs/flap-control-panel/
-      - title: "Trim Wheel"
+      - title: "Motorized Trim Wheel"
         url: /docs/trim-wheel/
+      - title: "Parking Brake"
+        url: /docs/parking-brake/
       - title: "Yoke Mount"
         url: /docs/yoke-mount/
 
