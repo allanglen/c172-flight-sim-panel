@@ -11,8 +11,8 @@ baseurl: ""
 github_username:  allanglen
 repository: allanglen/c172-flight-sim-panel
 
-search                   : true
-search_full_content      : true
+search                   : false
+search_full_content      : false
 
 # Theme (see https://mmistakes.github.io/minimal-mistakes/docs/quick-start-guide/)
 remote_theme: "mmistakes/minimal-mistakes@4.9.0"
