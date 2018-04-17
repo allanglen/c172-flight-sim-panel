@@ -23,7 +23,7 @@ group :jekyll_plugins do
   # Patch for livereload that uses the configured site when requesting livereload.js. If Docker detects
   # the host as 0.0.0.0 then browser is unable to access livereload.js
   # PR: https://github.com/RobertDeRose/jekyll-livereload/pull/20
-  gem 'jekyll-livereload', :git => 'https://github.com/math0ne/jekyll-livereload.git', :ref => '7fa4ed5'
+  #gem 'jekyll-livereload', :git => 'https://github.com/math0ne/jekyll-livereload.git', :ref => '7fa4ed5'
 end
 
 # Windows does not include zoneinfo files, so bundle the tzinfo-data gem

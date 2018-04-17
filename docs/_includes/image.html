@@ -1,5 +1,5 @@
 {% assign file_rel = page.url | split:"/" | last | append: "/" | append: include.file %}
-{% assign file_abs = '/assets/images/' | append: file_rel %}
+{% assign file_abs = site.image_assets_absolute_path | append: file_rel %}
 <figure>
     <a href="{{file_abs}}" title="{{include.title}}">
         <img src="{{file_abs}}" alt="{{include.title}}" />

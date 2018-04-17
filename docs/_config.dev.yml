@@ -5,6 +5,9 @@ url: http://localhost:4000
 search                   : false
 search_full_content      : false
 
+# Access image assets directly when running locally
+image_assets_absolute_path: "/assets/images/"
+
 # don't use the remote theme for local development
 remote_theme: false
 theme: minimal-mistakes-jekyll

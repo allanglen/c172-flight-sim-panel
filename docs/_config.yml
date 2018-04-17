@@ -14,6 +14,9 @@ repository: allanglen/c172-flight-sim-panel
 search                   : false
 search_full_content      : false
 
+# Access image assets via cloudinary when deployed to Github pages (uses cloudinary auto-upload)
+image_assets_absolute_path: "https://res.cloudinary.com/allanglen/image/upload/f_auto,q_auto,w_2048,h_2048,c_limit/cessna172sim/images/"
+
 # Theme (see https://mmistakes.github.io/minimal-mistakes/docs/quick-start-guide/)
 remote_theme: "mmistakes/minimal-mistakes@4.9.0"
 
