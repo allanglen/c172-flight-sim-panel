@@ -17,9 +17,9 @@ This project is a work in progress and new content will be added as construction
 
 ## Status
 
-As of March 2018, the panel is in a flyable state with a fully operating [instrument panel](/docs/instrument-panel/), [switch panel](/docs/switch-panel/), [throttle/mixture controls](/docs/throttle-mixture-panel/), [flap control](/docs/flap-control-panel/), [trim wheel](/docs/trim-wheel), [parking brake](/docs/parking-brake), and [yoke](/docs/yoke-mount/).
+As of May 2018, the panel is in a flyable state with a fully operating [instrument panel](/docs/instrument-panel/), [switch panel](/docs/switch-panel/), [throttle/mixture controls](/docs/throttle-mixture-panel/), [flap control](/docs/flap-control-panel/), [trim wheel](/docs/trim-wheel), [parking brake](/docs/parking-brake), and [yoke](/docs/yoke-mount/).
 
-I am currently working on the [avionics stack](/docs/avionics/) and have made solid progress on a [Garmin GNS 530](/docs/avionics/garmin-gns-530/), a [Garmin GNS 430](/docs/avionics/garmin-gns-430), and a Garmin GMA 340 audio panel.
+I am currently working on the [avionics stack](/docs/avionics/). I have a working [Garmin GNS 530](/docs/avionics/garmin-gns-530/) and [Garmin GNS 430](/docs/avionics/garmin-gns-430), a partially functioning Garmin GMA 340 audio panel, and a fully functioning [Bendix-King KT76C Transponder](/docs/avionics/bendix-king-kt76c).
 
 {% include image.html file="../avionics/avionics_view.jpg" %}
 

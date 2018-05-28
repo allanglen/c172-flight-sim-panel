@@ -1,0 +1,41 @@
+- component: 'Faceplate, hardware mount, mounting brackets'
+  part: '3/16” bright white cast acrylic'
+  link: https://rover.ebay.com/rover/1/711-53200-19255-0/1?icep_id=114&ipn=icep&toolid=20004&campid=5338231642&mpre=https%3A%2F%2Fwww.ebay.com%2Fitm%2F3-16-7328-Translucent-Bright-White-Cell-Cast-Acrylic-Sheet-12-x-24%2F291827088484
+  source: Ebay
+
+- component: 'Display'
+  part: 'MAX7219 7-segment display'
+  quantity: 1
+  link: https://rover.ebay.com/rover/1/711-53200-19255-0/1?icep_id=114&ipn=icep&toolid=20004&campid=5338231642&mpre=https%3A%2F%2Fwww.ebay.com%2Fitm%2FMAX7219-8-Digital-Segment-Digital-LED-Display-Tube-Arduino-51-AVR-STM32-%2F272678447709%3Fhash%3Ditem3f7ce6ea5d
+  source: Ebay
+
+- component: 'Mode switch'
+  part: 'Panel Mount 2P5T Rotary Switch'
+  quantity: 1
+  link: https://www.amazon.com/Position-Channel-Selector-Rotary-Switch/dp/B00K82ZBD6/ref=as_li_ss_tl?ie=UTF8&linkCode=ll1&tag=c172-20&linkId=0eb8c18d665bf2ea32d275ab50d63a11
+  source: Amazon
+
+- component: 'Mode knob'
+  part: '10pcs 6mm Shaft Hole Dia Plastic Threaded knurled Potentiometer Knobs Caps'
+  quantity: 2
+  link: https://rover.ebay.com/rover/1/711-53200-19255-0/1?icep_id=114&ipn=icep&toolid=20004&campid=5338231642&mpre=https%3A%2F%2Fwww.ebay.com%2Fitm%2F10pcs-6mm-Shaft-Hole-Dia-Plastic-Threaded-knurled-Potentiometer-Knobs-Caps-%2F173012278383%3Fhash%3Ditem284855dc6f
+  source: Ebay
+
+- component: 'Push buttons'
+  notes: These are a soft-feel push button with about 2mm of travel.
+  part: '7mmx7mm Momentary DPDT Mini Push Button Switch'
+  quantity: 11
+  link: https://www.amazon.com/gp/product/B00OK476IG/ref=as_li_ss_tl?ie=UTF8&linkCode=ll1&tag=c172-20&linkId=5fd3ae40e8fae5b1117cc293f6f73be1
+  source: Amazon
+
+- component: 'Pan head screws'
+  notes: Used for attaching the hardware mount to the rear of the faceplate.
+  part: '#6-32 x 1/2” Phillips Pan Head Screws'
+  quantity: 4
+  link: https://www.amazon.com/gp/product/B00F34X6JK/ref=as_li_ss_tl?ie=UTF8&linkCode=ll1&tag=c172-20&linkId=15ac88dce72fbefe18d7ecefaa0f6ee8
+  source: Amazon
+
+- component: 'Flat head screws'
+  notes: For assembling the acrylic parts (holes should be countersunk before assembly).
+  part: '#4 x 1/2” Flat Head Wood Screws'
+  quantity: 6
