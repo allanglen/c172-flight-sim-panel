@@ -17,7 +17,7 @@ services:
   docs:
     image: jekyll/jekyll:latest
     working_dir: /srv/jekyll/docs
-    command: jekyll serve --force_polling --incremental --livereload --config "_config.yml,_config.dev.yml"
+    command: jekyll serve --force_polling --incremental --config "_config.yml,_config.dev.yml"
     environment:
       - JEKYLL_LOG_LEVEL=debug
       - JEKYLL_DEBUG=1
