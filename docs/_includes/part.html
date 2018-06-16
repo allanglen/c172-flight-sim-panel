@@ -1,0 +1,8 @@
+{%- assign part = site.data.parts.common["arduino_mega"] -%}
+<a href="{{ part.link }}">
+{%- if include.label -%}
+{{ include.label }}
+{%- else -%}
+{{ part.component }}
+{%- endif -%}
+</a>
