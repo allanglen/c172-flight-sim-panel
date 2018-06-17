@@ -5,7 +5,7 @@ toc: false
 ---
 # ArdSimX Interface
 
-I use the excellent [ArdSimX Interface](http://simvim.com/ardsimx/) to interface with X-Plane.
+I use the excellent [ArdSimX Interface](http://simvim.com/ardsimx.html) to interface with X-Plane.
 
 ArdSimX runs on inexpensive Arduino hardware and makes it simple to interface electrical components with X-Plane.
 

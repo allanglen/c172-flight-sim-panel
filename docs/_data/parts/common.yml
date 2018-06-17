@@ -1,0 +1,19 @@
+arduino_mega:
+  component: 'Arduino Mega'
+  link: https://www.amazon.com/gp/product/B01H4ZLZLQ/ref=as_li_ss_tl?ie=UTF8&psc=1&linkCode=ll1&tag=c172-20&linkId=5a45634852ad597728646763c7273b08
+  source: Amazon
+
+yoke:
+  component: 'CH Eclipse Yoke'
+  link: https://www.amazon.com/gp/product/B001GIOGBY/ref=as_li_ss_tl?ie=UTF8&psc=1&linkCode=ll1&tag=c172-20&linkId=cbbf94b7f41f61e0338cbbc82e0d6dc9
+  source: Amazon
+
+dremel:
+  component: 'Dremel'
+  link: https://www.amazon.com/Dremel-3000-1-25-Attachment-Accessories/dp/B00LUJONH6/ref=sr_1_3?s=industrial&ie=UTF8&qid=1529189076&sr=1-3&keywords=dremel+tool
+  source: Amazon
+
+hole_saw_3_125:
+  component: '3 1/8" hole saw'
+  link: https://www.amazon.com/LENOX-Tools-Bi-Metal-Arbored-Technology/dp/B0054SBAN4/ref=as_li_ss_tl?rps=1&ie=UTF8&qid=1529188725&sr=8-5&keywords=3+1/8+hole+saw&refinements=p_85:2470955011&linkCode=ll1&tag=c172-20&linkId=99907401d6c9ab08bebde2bea92c3d89
+  source: Amazon

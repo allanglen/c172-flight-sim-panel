@@ -35,4 +35,4 @@ The key switch when assembled and mounted into the [panel](/docs/switch-panel/):
 
 {% include image.html file="key_switch_mounted.jpg" %}
 
-For wiring details, see [http://www.simvim.com/ardsimx/wire_dir.html](http://www.simvim.com/ardsimx/wire_dir.html). I used parallel 2k resistors as I did not have any 1k resistors in my parts bin.
+For wiring details, see [http://www.simvim.com/asx_wire.html](http://www.simvim.com/asx_wire.html). I used parallel 2k resistors as I did not have any 1k resistors in my parts bin.

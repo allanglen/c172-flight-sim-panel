@@ -6,40 +6,91 @@ permalink: /docs/instrument-panel/
 # Instrument Panel
 
 The instrument panel simulates the typical setup in a steam gauge Cessna 172. I opted to build a steam gauge panel to support training with traditional instruments.
-                                                                              
-The gauges are [software rendered](#display) and provide physical interaction through hardware controls.
+
+The instrument panel is comprised of a layer of hardware that is mounted over a 23" HDMI display.
 
 {% include image.html file="instrument_panel.jpg" %}
+
+The instruments are rendered with [Air Manager](https://www.siminnovations.com/). I have made some minor customizations but most of the instruments that I am using are provided either by Sim Innovations or the community.
+                                                                            
+{% include image.html file="instrument_display.jpg" %}
 
 ## Parts List
 
 {% include parts.html %}
 
-## Panel
-
-The instrument panel is constructed from painted 1/4" inch birch plywood with cutouts for mounting instrument bezels and hardware. All parts for the panel are designed to fit into the depth of the panel.
-
-Channels are routed into the panel for wiring the instruments to a terminal block that [connects to an Arduino Mega](/docs/io) through a slot cut into left side the [frame](/docs/frame).
-
 ## Display
 
 I use a 23" display (I had an unused Acer V233H lying around) to render the instruments behind the hardware panel. The display is stripped down (case removed) and is mounted directly into the [frame](/docs/frame/).
 
-{% include image.html file="instrument_display.jpg" %}
+{% include image.html file="display_01.jpg" %}
 
-### Software
+The display is mounted as close to the left as possible given the curve of the glare shield.
 
-The instruments are rendered with [Air Manager](https://www.siminnovations.com/). I have made some minor customizations but most of the instruments that I am using are provided either by Sim Innovations or the community.
+{% include image.html file="display_02.jpg" %}
 
-{% include image.html file="air_manager.jpg" %}
+The display is set into the frame and held in place by a [panel](#panel) that is mounted to the frame.
+
+{% include image.html file="display_03.jpg" %}
+
+{% include image.html file="display_04.jpg" %}
+
+{% include image.html file="display_05.jpg" %}
+
+## Panel
+
+The instrument panel is constructed from painted 1/4" inch birch plywood with cutouts for mounting instrument [bezels](#bezels) and hardware.
+
+{% include image.html file="panel_01.jpg" %}
+
+{% include image.html file="panel_02.jpg" %}
+
+{% include image.html file="panel_03.jpg" %}
+
+The electrical components (rotary encoders, buttons, and switches) mount into the rear of the bezels and the wiring is routed via channels cut in the back of the plywood. The channels were cut using a {% include part.html id="dremel" label="Dremel" %} with a router bit.
+
+{% include image.html file="panel_rear_01.jpg" %}
+
+{% include image.html file="panel_rear_02.jpg" %}
+
+{% include image.html file="panel_rear_03.jpg" %}
+
+{% include image.html file="panel_rear_04.jpg" %}
+
+{% include image.html file="panel_rear_05.jpg" %}
+
+{% include image.html file="panel_rear_06.jpg" %}
+
+The wiring bundle is passed through a cutout in the frame and connected to an {% include part.html id="arduino_mega" %}.
+
+{% include image.html file="wiring_routing_01.jpg" %}
+
+{% include image.html file="panel_attach_03.jpg" %}
+
+All parts for the panel are designed to fit into the depth of the panel, allowing the bezels to fit flush against the display.
+
+{% include image.html file="panel_attach_01.jpg" %}
+
+{% include image.html file="panel_attach_02.jpg" %}
+
+{% include image.html file="panel_attach_04.jpg" %}
+
+{% include image.html file="panel_attached_02.jpg" %}
+
+{% include image.html file="panel_attached_01.jpg" %}
 
 ## Bezels
 
-The instrument bezels provide a clean way for framing the 2d instruments and provide a means for securely mounting rotary encoders into the panel.
+The instrument bezels are 3d printed and designed to allow the hardware to be mounted cleanly into the panel. The holes in the plywood were cut using a {% include part.html id="hole_saw_3_125" label='3 1/8" hole saw' %}.
 
 {% include image.html file="bezel_lcd.jpg" %}
 
 {% include image.html file="bezels_installed.jpg" %}
+
+A router guide was designed and 3d printed to cut out the bezel tabs using a flush trim router bit.
+
+{% include stl.html file="bezel_large_router_guide.stl" thing=2690541 
+    image="https://cdn.thingiverse.com/renders/63/3c/b3/56/f5/6fda26d00e11bedbcd7b14600c7b7b00_preview_featured.jpg" %}
 
 ### Large Instruments (3 1/2")
 
