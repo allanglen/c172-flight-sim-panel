@@ -35,7 +35,7 @@ feature_row:
     alt: "X-Plane compatible"
     title: "X-Plane Compatible"
     excerpt: >-
-      The hardware here is designed to work with [X-Plane 11](http://www.x-plane.com/) and is interfaced using [ArdSimX](http://www.simvim.com/ardsimx/index.html).<br/><br/>
+      The hardware here is designed to work with [X-Plane 11](http://www.x-plane.com/) and is interfaced using [ArdSimX](http://www.simvim.com/ardsimx.html).<br/><br/>
       It should also be possible to use this hardware with other flight sims (FSX, P3D) via [FSUIPC](http://www.schiratti.com/dowson.html).
     url: "/docs/io/ardsimx/"
     btn_class: "btn--primary"

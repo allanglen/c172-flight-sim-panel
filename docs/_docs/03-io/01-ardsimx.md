@@ -11,8 +11,4 @@ ArdSimX runs on inexpensive Arduino hardware and makes it simple to interface el
 
 {% include image.html file="arduino_wiring.jpg" %}
 
-I am currently using ArdSimX 1.x but I am awaiting the release of ArdSimX.2 to finish wiring up the [avionics stack](/docs/avionics/).
-
-The use of multiplexers in ArdSimX.2 will make it possible to use a common 6-wire bus for the avionics stack allow for [much cleaner, more modular wiring](https://ardsimx.blogspot.com/2017/10/ardsimx2-io-structure.html).
-
-More coming on this..
+I plan on upgrading to [SimVimCockpit](http://www.simvim.com/svcockpit.html) (aka ArdSimX 2.0) in the future to take advantage of multiplexers and allow for modular avionics but ArdSimX is working very well for my current needs.
